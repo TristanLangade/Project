@@ -1,0 +1,1022 @@
+compte_courant,duree_emprunt_mois,historique_credit,raison,montant,compte_epargne,duree_emploi,annees_presence_logement,age,autre_credit,logement,nbre_emprunts_actuels,job,dependants,telephone,defaillant,revenufinal
+< 0 Euro,6,critique,ameublement,1169,inconnu,> 7 annees,4.0,67.0,aucun,proprietaire,2,qualifie,1,oui,non,8135.1101404539
+1 - 200 Euro,48,bon,ameublement,5951,< 100 Euro,1 - 4 annees,2.0,22.0,aucun,proprietaire,1,qualifie,1,oui,oui,19334.307686113898
+inconnu,12,critique,education,2096,< 100 Euro,4 - 7 annees,3.0,49.0,aucun,proprietaire,1,non_qualifie,2,oui,non,4864.954258098111
+< 0 Euro,42,bon,ameublement,7882,< 100 Euro,4 - 7 annees,4.0,45.0,aucun,autre,1,qualifie,2,oui,non,22152.947349424903
+< 0 Euro,24,pauvre,auto,4870,< 100 Euro,1 - 4 annees,4.0,53.0,aucun,autre,2,qualifie,2,oui,oui,23900.7041442591
+inconnu,36,bon,education,9055,inconnu,1 - 4 annees,4.0,35.0,aucun,autre,1,non_qualifie,2,oui,non,26469.9961397297
+inconnu,24,bon,ameublement,2835,500 - 1000 Euro,> 7 annees,4.0,53.0,aucun,proprietaire,1,qualifie,1,oui,non,12394.514241571102
+1 - 200 Euro,36,bon,auto,6948,< 100 Euro,1 - 4 annees,2.0,35.0,aucun,locataire,1,management,1,oui,non,15059.9071605252
+inconnu,12,bon,ameublement,3059,> 1000 Euro,4 - 7 annees,4.0,61.0,aucun,proprietaire,1,non_qualifie,1,oui,non,7763.509303174559
+1 - 200 Euro,30,critique,auto,5234,< 100 Euro,chomeur,2.0,28.0,aucun,proprietaire,2,management,1,oui,oui,37363.9142890886
+1 - 200 Euro,12,bon,auto,1295,< 100 Euro,< 1 annee,1.0,25.0,aucun,locataire,1,qualifie,1,oui,oui,4457.18540012166
+< 0 Euro,48,bon,business,4308,< 100 Euro,< 1 annee,4.0,24.0,aucun,locataire,1,qualifie,1,oui,oui,19359.7713086048
+1 - 200 Euro,12,bon,ameublement,1567,< 100 Euro,1 - 4 annees,1.0,22.0,aucun,proprietaire,1,qualifie,1,oui,non,2617.59215892269
+< 0 Euro,24,critique,auto,1199,< 100 Euro,> 7 annees,4.0,60.0,aucun,proprietaire,2,non_qualifie,1,oui,oui,6734.966677762071
+< 0 Euro,15,bon,auto,1403,< 100 Euro,1 - 4 annees,4.0,28.0,aucun,locataire,1,qualifie,1,oui,non,3905.386104780589
+< 0 Euro,24,bon,ameublement,1282,100 - 500 Euro,1 - 4 annees,2.0,32.0,aucun,proprietaire,1,non_qualifie,1,oui,oui,6912.02869215106
+inconnu,24,critique,ameublement,2424,inconnu,> 7 annees,4.0,53.0,aucun,proprietaire,2,qualifie,1,oui,non,15459.8370802168
+< 0 Euro,30,parfait,business,8072,inconnu,< 1 annee,3.0,25.0,banque,proprietaire,3,qualifie,1,oui,non,20873.1297682626
+1 - 200 Euro,24,bon,auto,12579,< 100 Euro,> 7 annees,2.0,44.0,aucun,autre,1,management,1,oui,oui,79354.5273661655
+inconnu,24,bon,ameublement,3430,500 - 1000 Euro,> 7 annees,2.0,31.0,aucun,proprietaire,1,qualifie,2,oui,non,17964.7216981832
+inconnu,9,critique,auto,2134,< 100 Euro,1 - 4 annees,4.0,48.0,aucun,proprietaire,3,qualifie,1,oui,non,13512.2811526855
+< 0 Euro,6,bon,ameublement,2647,500 - 1000 Euro,1 - 4 annees,3.0,44.0,aucun,locataire,1,qualifie,2,oui,non,8505.037351915269
+< 0 Euro,10,critique,auto,2241,< 100 Euro,< 1 annee,3.0,48.0,aucun,locataire,2,non_qualifie,2,oui,non,3844.2578602541107
+1 - 200 Euro,12,critique,auto,1804,100 - 500 Euro,< 1 annee,4.0,44.0,aucun,proprietaire,1,qualifie,1,oui,non,7675.76130755445
+inconnu,10,critique,ameublement,2069,inconnu,1 - 4 annees,1.0,26.0,aucun,proprietaire,2,qualifie,1,oui,non,6092.35940561031
+< 0 Euro,6,bon,ameublement,1374,< 100 Euro,1 - 4 annees,2.0,36.0,banque,proprietaire,1,non_qualifie,1,oui,non,1992.7453063075
+inconnu,6,parfait,ameublement,426,< 100 Euro,> 7 annees,4.0,39.0,aucun,proprietaire,1,non_qualifie,1,oui,non,1972.95253636383
+> 200 Euro,12,tres bon,ameublement,409,> 1000 Euro,1 - 4 annees,3.0,42.0,aucun,locataire,2,qualifie,1,oui,non,2188.61085286844
+1 - 200 Euro,7,bon,ameublement,2415,< 100 Euro,1 - 4 annees,2.0,34.0,aucun,proprietaire,1,qualifie,1,oui,non,9889.28551710771
+inconnu,7,critique,ameublement,1280,< 100 Euro,> 7 annes,,,2,qualifie,1,oui,oui,oui,,6584.168778426421
+1 - 200 Euro,18,bon,business,1913,> 1000 Euro,< 1 annee,3.0,36.0,banque,proprietaire,1,qualifie,1,oui,non,8216.42927041139
+< 0 Euro,24,bon,ameublement,4020,< 100 Euro,1 - 4 annees,2.0,27.0,magasin,proprietaire,1,qualifie,1,oui,non,10580.7929486664
+1 - 200 Euro,18,bon,auto,5866,100 - 500 Euro,1 - 4 annees,2.0,30.0,aucun,proprietaire,2,qualifie,1,oui,non,17582.9853032277
+inconnu,12,critique,business,1264,inconnu,> 7 annees,4.0,57.0,aucun,locataire,1,non_qualifie,1,oui,non,5541.9892882680115
+> 200 Euro,12,bon,ameublement,1474,< 100 Euro,< 1 annee,1.0,33.0,banque,proprietaire,1,management,1,oui,non,8317.383728455301
+1 - 200 Euro,45,critique,ameublement,4746,< 100 Euro,< 1 annee,2.0,25.0,aucun,proprietaire,2,non_qualifie,1,oui,oui,23798.0207675334
+inconnu,48,critique,education,6110,< 100 Euro,1 - 4 annees,3.0,31.0,banque,autre,1,qualifie,1,oui,non,6630.7491375903
+> 200 Euro,18,bon,ameublement,2100,< 100 Euro,1 - 4 annees,2.0,37.0,magasin,proprietaire,1,qualifie,1,oui,oui,11585.315596028899
+> 200 Euro,10,bon,ameublement,1225,< 100 Euro,1 - 4 annees,2.0,37.0,aucun,proprietaire,1,qualifie,1,oui,non,3642.52327013749
+1 - 200 Euro,9,bon,ameublement,458,< 100 Euro,1 - 4 annees,3.0,24.0,aucun,proprietaire,1,qualifie,1,oui,non,2837.21116865334
+inconnu,30,bon,ameublement,2333,500 - 1000 Euro,> 7 annees,2.0,30.0,banque,proprietaire,1,management,1,oui,non,13492.390794610901
+1 - 200 Euro,12,bon,ameublement,1158,500 - 1000 Euro,1 - 4 annees,1.0,26.0,aucun,proprietaire,1,qualifie,1,oui,non,5571.73724158991
+1 - 200 Euro,18,pauvre,renonvations,6204,< 100 Euro,1 - 4 annees,4.0,44.0,aucun,proprietaire,1,non_qualifie,2,oui,non,18258.6157975445
+< 0 Euro,30,critique,auto,6187,100 - 500 Euro,4 - 7 annees,4.0,24.0,aucun,locataire,2,qualifie,1,oui,non,7471.631407562959
+< 0 Euro,48,critique,auto,6143,< 100 Euro,> 7 annees,4.0,58.0,magasin,autre,2,non_qualifie,1,oui,oui,29070.6573874593
+inconnu,11,critique,auto,1393,< 100 Euro,< 1 annee,4.0,35.0,aucun,proprietaire,2,management,1,oui,non,7752.577975319591
+inconnu,36,bon,ameublement,2299,500 - 1000 Euro,> 7 annees,4.0,39.0,aucun,proprietaire,1,qualifie,1,oui,non,15309.5722615688
+< 0 Euro,6,bon,auto,1352,500 - 1000 Euro,chomeur,2.0,23.0,aucun,locataire,1,chomeur,1,oui,non,2156.5478287827104
+inconnu,11,critique,auto,7228,< 100 Euro,1 - 4 annees,4.0,39.0,aucun,proprietaire,2,non_qualifie,1,oui,non,8044.71998233428
+inconnu,12,bon,ameublement,2073,100 - 500 Euro,1 - 4 annees,2.0,28.0,aucun,proprietaire,1,qualifie,1,oui,non,11091.325496879399
+1 - 200 Euro,24,pauvre,ameublement,2333,inconnu,< 1 annee,2.0,29.0,banque,proprietaire,1,non_qualifie,1,oui,non,15989.548350841202
+1 - 200 Euro,27,pauvre,auto,5965,< 100 Euro,> 7 annees,2.0,30.0,aucun,proprietaire,2,management,1,oui,non,10027.9328460545
+inconnu,12,bon,ameublement,1262,< 100 Euro,1 - 4 annees,2.0,25.0,aucun,proprietaire,1,qualifie,1,oui,non,5573.67656237053
+inconnu,18,bon,auto,3378,inconnu,1 - 4 annees,1.0,31.0,aucun,proprietaire,1,qualifie,1,oui,non,8742.1843996575
+1 - 200 Euro,36,pauvre,auto,2225,< 100 Euro,> 7 annees,4.0,57.0,banque,autre,2,qualifie,1,oui,oui,10610.0467491118
+inconnu,6,tres bon,auto,783,inconnu,1 - 4 annees,2.0,26.0,magasin,proprietaire,1,non_qualifie,2,oui,non,855.840847919736
+1 - 200 Euro,12,bon,ameublement,6468,inconnu,chomeur,1.0,52.0,aucun,proprietaire,1,management,1,oui,oui,16773.1990989024
+inconnu,36,critique,ameublement,9566,< 100 Euro,1 - 4 annees,2.0,31.0,magasin,proprietaire,2,qualifie,1,oui,non,31688.1954599279
+> 200 Euro,18,bon,auto,1961,< 100 Euro,> 7 annees,2.0,23.0,aucun,proprietaire,1,management,1,oui,non,10200.5284024879
+< 0 Euro,36,critique,ameublement,6229,< 100 Euro,< 1 annee,4.0,23.0,aucun,locataire,2,non_qualifie,1,oui,oui,40920.0536399825
+1 - 200 Euro,9,bon,business,1391,< 100 Euro,1 - 4 annees,1.0,27.0,banque,proprietaire,1,qualifie,1,oui,non,4492.96036248544
+1 - 200 Euro,15,critique,ameublement,1537,inconnu,> 7 annees,4.0,50.0,aucun,proprietaire,2,qualifie,1,oui,non,7517.64444039093
+1 - 200 Euro,36,parfait,business,1953,< 100 Euro,> 7 annees,4.0,61.0,aucun,autre,1,management,1,oui,oui,12455.773269957199
+1 - 200 Euro,48,parfait,business,14421,< 100 Euro,1 - 4 annees,2.0,25.0,aucun,proprietaire,1,qualifie,1,oui,oui,41952.819310991
+inconnu,24,bon,ameublement,3181,< 100 Euro,< 1 annee,4.0,26.0,aucun,proprietaire,1,qualifie,1,oui,non,13398.1807795647
+inconnu,27,bon,renonvations,5190,inconnu,> 7 annees,4.0,48.0,aucun,proprietaire,4,qualifie,2,oui,non,33883.2476228769
+inconnu,12,bon,ameublement,2171,< 100 Euro,< 1 annee,2.0,29.0,banque,proprietaire,1,qualifie,1,oui,non,5454.82969209616
+1 - 200 Euro,12,bon,auto,1007,> 1000 Euro,1 - 4 annees,1.0,22.0,aucun,proprietaire,1,qualifie,1,oui,non,5421.06122261505
+inconnu,36,bon,education,1819,< 100 Euro,1 - 4 annees,4.0,37.0,magasin,autre,1,qualifie,1,oui,oui,7718.52646631923
+inconnu,36,bon,ameublement,2394,inconnu,1 - 4 annees,4.0,25.0,aucun,proprietaire,1,qualifie,1,oui,non,13130.908476145902
+inconnu,36,bon,auto,8133,< 100 Euro,1 - 4 annees,2.0,30.0,banque,proprietaire,1,qualifie,1,oui,non,11972.9921212155
+inconnu,7,critique,ameublement,730,inconnu,> 7 annees,2.0,46.0,aucun,locataire,2,non_qualifie,1,oui,non,4974.17135407339
+< 0 Euro,8,critique,auto0,1164,< 100 Euro,> 7 annees,4.0,51.0,banque,autre,2,management,2,oui,non,3747.6812655551203
+1 - 200 Euro,42,critique,business,5954,< 100 Euro,4 - 7 annees,1.0,41.0,banque,proprietaire,2,non_qualifie,1,oui,non,13398.8595332932
+< 0 Euro,36,bon,education,1977,inconnu,> 7 annees,4.0,40.0,aucun,proprietaire,1,management,1,oui,oui,10456.887967602099
+< 0 Euro,12,critique,auto,1526,< 100 Euro,> 7 annees,4.0,66.0,aucun,autre,2,management,1,oui,non,7624.268827734259
+< 0 Euro,42,bon,ameublement,3965,< 100 Euro,< 1 annee,3.0,34.0,aucun,proprietaire,1,qualifie,1,oui,oui,18391.9387108946
+1 - 200 Euro,11,pauvre,ameublement,4771,< 100 Euro,4 - 7 annees,4.0,51.0,aucun,proprietaire,1,qualifie,1,oui,non,12932.3095596224
+inconnu,54,parfait,auto,9436,inconnu,1 - 4 annees,2.0,39.0,aucun,proprietaire,1,non_qualifie,2,oui,non,23257.034760885697
+1 - 200 Euro,30,bon,ameublement,3832,< 100 Euro,< 1 annee,1.0,22.0,aucun,proprietaire,1,qualifie,1,oui,non,9165.96226019124
+inconnu,24,bon,ameublement,5943,inconnu,< 1 annee,1.0,44.0,aucun,proprietaire,2,qualifie,1,oui,oui,10237.8479237722
+inconnu,15,bon,ameublement,1213,500 - 1000 Euro,> 7 annees,3.0,47.0,magasin,proprietaire,1,qualifie,1,oui,non,5382.31637181698
+inconnu,18,bon,business,1568,100 - 500 Euro,1 - 4 annees,4.0,24.0,aucun,locataire,1,non_qualifie,1,oui,non,5822.14099472208
+< 0 Euro,24,bon,auto0,1755,< 100 Euro,> 7 annees,4.0,58.0,aucun,proprietaire,1,non_qualifie,1,oui,non,11153.3353354544
+< 0 Euro,10,bon,ameublement,2315,< 100 Euro,> 7 annees,4.0,52.0,aucun,proprietaire,1,non_qualifie,1,oui,non,9335.84412964482
+inconnu,12,critique,business,1412,< 100 Euro,1 - 4 annees,2.0,29.0,aucun,proprietaire,2,management,1,oui,non,9914.4687682774
+1 - 200 Euro,18,critique,ameublement,1295,< 100 Euro,< 1 annee,1.0,27.0,aucun,proprietaire,2,qualifie,1,oui,non,5353.012107923621
+1 - 200 Euro,36,bon,education,12612,100 - 500 Euro,1 - 4 annees,4.0,47.0,aucun,autre,1,qualifie,2,oui,oui,14209.5404932064
+< 0 Euro,18,bon,auto,2249,100 - 500 Euro,4 - 7 annees,3.0,30.0,aucun,proprietaire,1,management,2,oui,non,14622.4783331187
+< 0 Euro,12,parfait,renonvations,1108,< 100 Euro,4 - 7 annees,3.0,28.0,aucun,proprietaire,2,qualifie,1,oui,oui,6288.421356969039
+inconnu,12,critique,ameublement,618,< 100 Euro,> 7 annees,4.0,56.0,aucun,proprietaire,1,qualifie,1,oui,non,3125.24798613737
+< 0 Euro,12,critique,auto,1409,< 100 Euro,> 7 annees,3.0,54.0,aucun,proprietaire,1,qualifie,1,oui,non,8787.13261794479
+inconnu,12,critique,ameublement,797,inconnu,> 7 annees,3.0,33.0,banque,proprietaire,1,non_qualifie,2,oui,oui,5339.17187201676
+> 200 Euro,24,critique,ameublement,3617,inconnu,> 7 annees,4.0,20.0,aucun,locataire,2,qualifie,1,oui,non,23933.71433321
+1 - 200 Euro,12,bon,auto,1318,> 1000 Euro,> 7 annees,4.0,54.0,aucun,proprietaire,1,qualifie,1,oui,non,8654.518169602099
+1 - 200 Euro,54,parfait,business,15945,< 100 Euro,< 1 annee,4.0,58.0,aucun,locataire,1,qualifie,1,oui,oui,59221.477379291
+inconnu,12,critique,education,2012,inconnu,4 - 7 annees,2.0,61.0,aucun,proprietaire,1,qualifie,1,oui,non,12287.285950052199
+1 - 200 Euro,18,bon,business,2622,100 - 500 Euro,1 - 4 annees,4.0,34.0,aucun,proprietaire,1,qualifie,1,oui,non,17146.7147562958
+< 0 Euro,6,critique,ameublement,1169,inconnu,> 7 annees,4.0,67.0,aucun,proprietaire,2,qualifie,1,oui,non,7496.494787768322
+< 0 Euro,6,critique,ameublement,1169,inconnu,> 7 annees,4.0,67.0,aucun,proprietaire,2,qualifie,1,oui,non,5316.71796016963
+1 - 200 Euro,36,critique,ameublement,2337,< 100 Euro,> 7 annees,4.0,36.0,aucun,proprietaire,1,qualifie,1,oui,non,11947.1214767645
+1 - 200 Euro,20,pauvre,auto,7057,inconnu,4 - 7 annees,4.0,36.0,banque,locataire,2,management,2,oui,non,22768.9320517829
+inconnu,24,bon,auto,1469,100 - 500 Euro,> 7 annees,4.0,41.0,aucun,locataire,1,non_qualifie,1,oui,non,8257.1928550508
+1 - 200 Euro,36,bon,ameublement,2323,< 100 Euro,4 - 7 annees,4.0,24.0,aucun,locataire,1,qualifie,1,oui,non,12680.7866637033
+inconnu,6,pauvre,ameublement,932,< 100 Euro,1 - 4 annees,2.0,24.0,aucun,proprietaire,1,qualifie,1,oui,non,2875.93283218666
+1 - 200 Euro,9,critique,ameublement,1919,< 100 Euro,4 - 7 annees,3.0,35.0,aucun,locataire,1,qualifie,1,oui,non,9849.549147557
+inconnu,12,bon,auto,2445,inconnu,< 1 annee,4.0,26.0,aucun,locataire,1,qualifie,1,oui,non,8261.450713079692
+1 - 200 Euro,24,critique,auto,11938,< 100 Euro,1 - 4 annees,3.0,39.0,aucun,proprietaire,2,management,2,oui,oui,31831.1657185325
+inconnu,18,tres bon,auto,6458,< 100 Euro,> 7 annees,4.0,39.0,banque,proprietaire,2,management,2,oui,oui,18786.846582299
+1 - 200 Euro,12,bon,auto,6078,< 100 Euro,4 - 7 annees,2.0,32.0,aucun,proprietaire,1,qualifie,1,oui,non,16088.0706522584
+< 0 Euro,24,bon,ameublement,7721,inconnu,< 1 annee,2.0,30.0,aucun,proprietaire,1,qualifie,1,oui,non,13853.6243519892
+1 - 200 Euro,14,bon,business,1410,500 - 1000 Euro,> 7 annees,2.0,35.0,aucun,proprietaire,1,qualifie,1,oui,non,1501.3250100548098
+1 - 200 Euro,6,pauvre,business,1449,100 - 500 Euro,> 7 annees,2.0,31.0,banque,proprietaire,2,qualifie,2,oui,non,2295.17120788272
+> 200 Euro,15,bon,education,392,< 100 Euro,< 1 annee,4.0,23.0,aucun,locataire,1,qualifie,1,oui,non,2493.4268255679503
+1 - 200 Euro,18,bon,auto,6260,< 100 Euro,4 - 7 annees,3.0,28.0,aucun,locataire,1,non_qualifie,1,oui,non,21158.542815156597
+inconnu,36,critique,auto,7855,< 100 Euro,1 - 4 annees,2.0,25.0,magasin,proprietaire,2,qualifie,1,oui,oui,45633.0835049453
+< 0 Euro,12,bon,ameublement,1680,500 - 1000 Euro,> 7 annees,1.0,35.0,aucun,proprietaire,1,qualifie,1,oui,non,7843.711474015459
+inconnu,48,critique,ameublement,3578,inconnu,> 7 annees,1.0,47.0,aucun,proprietaire,1,qualifie,1,oui,non,19146.777122216798
+< 0 Euro,42,bon,ameublement,7174,inconnu,4 - 7 annees,3.0,30.0,aucun,proprietaire,1,management,1,oui,oui,48631.4911771704
+< 0 Euro,10,critique,ameublement,2132,inconnu,< 1 annee,3.0,27.0,aucun,locataire,2,qualifie,1,oui,non,5823.82041396312
+< 0 Euro,33,critique,ameublement,4281,500 - 1000 Euro,1 - 4 annees,4.0,23.0,aucun,proprietaire,2,qualifie,1,oui,oui,5613.486798801229
+1 - 200 Euro,12,critique,auto,2366,500 - 1000 Euro,4 - 7 annees,3.0,36.0,aucun,proprietaire,1,management,1,oui,non,9903.19170421416
+< 0 Euro,21,bon,ameublement,1835,< 100 Euro,1 - 4 annees,2.0,25.0,aucun,proprietaire,2,qualifie,1,oui,oui,7962.57576430413
+inconnu,24,critique,auto,3868,< 100 Euro,> 7 annees,2.0,41.0,aucun,locataire,2,management,1,oui,non,26320.2091038477
+inconnu,12,bon,ameublement,1768,< 100 Euro,1 - 4 annees,2.0,24.0,aucun,locataire,1,non_qualifie,1,oui,non,5387.85632365131
+> 200 Euro,10,critique,auto,781,< 100 Euro,> 7 annees,4.0,63.0,aucun,autre,2,qualifie,1,oui,non,3755.27264913457
+1 - 200 Euro,18,bon,ameublement,1924,inconnu,< 1 annee,3.0,27.0,aucun,locataire,1,qualifie,1,oui,oui,7765.150352999829
+< 0 Euro,12,critique,auto,2121,< 100 Euro,1 - 4 annees,2.0,30.0,aucun,proprietaire,2,qualifie,1,oui,non,10304.8750740753
+< 0 Euro,12,bon,ameublement,701,< 100 Euro,1 - 4 annees,2.0,40.0,aucun,proprietaire,1,non_qualifie,1,oui,non,5026.5482662395
+1 - 200 Euro,12,bon,renonvations,639,< 100 Euro,1 - 4 annees,2.0,30.0,aucun,proprietaire,1,qualifie,1,oui,oui,4025.2924348823713
+1 - 200 Euro,12,critique,auto,1860,< 100 Euro,chomeur,2.0,34.0,aucun,proprietaire,2,management,1,oui,non,11985.8846226278
+< 0 Euro,12,critique,auto,3499,< 100 Euro,1 - 4 annees,2.0,29.0,aucun,proprietaire,2,qualifie,1,oui,oui,13880.198878096298
+1 - 200 Euro,48,bon,auto,8487,inconnu,4 - 7 annees,2.0,24.0,aucun,proprietaire,1,qualifie,1,oui,non,12023.502872673302
+< 0 Euro,36,pauvre,education,6887,< 100 Euro,1 - 4 annees,3.0,29.0,magasin,proprietaire,1,qualifie,1,oui,oui,46342.5632837683
+inconnu,15,bon,ameublement,2708,< 100 Euro,< 1 annee,3.0,27.0,banque,proprietaire,2,non_qualifie,1,oui,non,8773.808699417299
+inconnu,18,bon,ameublement,1984,< 100 Euro,1 - 4 annees,4.0,47.0,banque,autre,2,qualifie,1,oui,non,9997.18617957562
+inconnu,60,bon,ameublement,10144,100 - 500 Euro,4 - 7 annees,4.0,21.0,aucun,proprietaire,1,qualifie,1,oui,non,25012.8419978988
+inconnu,12,critique,ameublement,1240,inconnu,> 7 annees,2.0,38.0,aucun,proprietaire,2,qualifie,1,oui,non,8332.968775331059
+inconnu,27,pauvre,auto,8613,> 1000 Euro,1 - 4 annees,2.0,27.0,aucun,proprietaire,2,qualifie,1,oui,non,18700.2224094733
+1 - 200 Euro,12,bon,ameublement,766,500 - 1000 Euro,1 - 4 annees,3.0,66.0,aucun,proprietaire,1,non_qualifie,1,oui,oui,3815.5868675040297
+1 - 200 Euro,15,critique,ameublement,2728,inconnu,4 - 7 annees,2.0,35.0,banque,proprietaire,3,qualifie,1,oui,non,16465.2896012632
+> 200 Euro,12,bon,ameublement,1881,< 100 Euro,1 - 4 annees,2.0,44.0,aucun,locataire,1,non_qualifie,1,oui,non,6515.9772912462595
+> 200 Euro,6,bon,auto,709,> 1000 Euro,< 1 annee,2.0,27.0,aucun,proprietaire,1,chomeur,1,oui,non,2356.22886191184
+1 - 200 Euro,36,bon,ameublement,4795,< 100 Euro,< 1 annee,1.0,30.0,aucun,proprietaire,1,management,1,oui,non,25831.3484861772
+< 0 Euro,27,bon,ameublement,3416,< 100 Euro,1 - 4 annees,2.0,27.0,aucun,proprietaire,1,management,1,oui,non,13549.6101369984
+< 0 Euro,18,bon,ameublement,2462,< 100 Euro,1 - 4 annees,2.0,22.0,aucun,proprietaire,1,qualifie,1,oui,oui,6045.97801118549
+inconnu,21,critique,ameublement,2288,< 100 Euro,< 1 annee,4.0,23.0,aucun,proprietaire,1,qualifie,1,oui,non,16190.9981956437
+1 - 200 Euro,48,tres bon,business,3566,100 - 500 Euro,4 - 7 annees,2.0,30.0,aucun,proprietaire,1,qualifie,1,oui,non,17717.071211868002
+< 0 Euro,6,critique,auto,860,< 100 Euro,> 7 annees,4.0,39.0,aucun,proprietaire,2,qualifie,1,oui,non,1087.10066593817
+inconnu,12,critique,auto,682,100 - 500 Euro,4 - 7 annees,3.0,51.0,aucun,proprietaire,2,qualifie,1,oui,non,3286.2910723755604
+< 0 Euro,36,critique,ameublement,5371,< 100 Euro,1 - 4 annees,2.0,28.0,aucun,proprietaire,2,qualifie,1,oui,non,26520.6033898341
+inconnu,18,critique,ameublement,1582,> 1000 Euro,> 7 annees,4.0,46.0,aucun,proprietaire,2,qualifie,1,oui,non,8946.776141406079
+inconnu,6,bon,ameublement,1346,100 - 500 Euro,> 7 annees,4.0,42.0,banque,autre,1,qualifie,2,oui,non,3041.667593442731
+inconnu,10,bon,ameublement,1924,< 100 Euro,1 - 4 annees,4.0,38.0,aucun,proprietaire,1,qualifie,1,oui,non,1972.86799708576
+> 200 Euro,36,bon,ameublement,5848,< 100 Euro,1 - 4 annees,1.0,24.0,aucun,proprietaire,1,qualifie,1,oui,non,39882.479881960295
+1 - 200 Euro,24,critique,auto,7758,> 1000 Euro,> 7 annees,4.0,29.0,aucun,locataire,1,qualifie,1,oui,non,20111.5028689839
+1 - 200 Euro,24,pauvre,business,6967,100 - 500 Euro,4 - 7 annees,4.0,36.0,aucun,locataire,1,management,1,oui,non,48009.231568092
+< 0 Euro,12,bon,ameublement,1282,< 100 Euro,1 - 4 annees,4.0,20.0,aucun,locataire,1,qualifie,1,oui,oui,4370.70588064487
+< 0 Euro,9,critique,renonvations,1288,100 - 500 Euro,> 7 annees,4.0,48.0,aucun,proprietaire,2,qualifie,2,oui,non,6355.8489281723
+< 0 Euro,12,tres bon,education,339,< 100 Euro,> 7 annees,1.0,45.0,banque,proprietaire,1,non_qualifie,1,oui,non,1774.1770937247
+1 - 200 Euro,24,bon,auto,3512,100 - 500 Euro,4 - 7 annees,3.0,38.0,banque,proprietaire,2,qualifie,1,oui,non,12254.0577198158
+inconnu,6,critique,ameublement,1898,inconnu,1 - 4 annees,2.0,34.0,aucun,proprietaire,2,non_qualifie,2,oui,non,2636.27705521316
+inconnu,24,critique,ameublement,2872,100 - 500 Euro,> 7 annees,4.0,36.0,aucun,proprietaire,1,qualifie,2,oui,non,14886.854364525701
+inconnu,18,critique,auto,1055,< 100 Euro,< 1 annee,1.0,30.0,aucun,proprietaire,2,qualifie,1,oui,non,4504.753564180511
+inconnu,15,bon,ameublement,1262,500 - 1000 Euro,4 - 7 annees,3.0,36.0,aucun,proprietaire,2,qualifie,1,oui,non,5811.43935359489
+1 - 200 Euro,10,bon,auto,7308,< 100 Euro,chomeur,4.0,70.0,banque,autre,1,management,1,oui,non,24566.7868252293
+inconnu,36,bon,auto,909,500 - 1000 Euro,> 7 annees,4.0,36.0,aucun,proprietaire,1,qualifie,1,oui,non,3892.8594834015503
+inconnu,6,bon,ameublement,2978,500 - 1000 Euro,1 - 4 annees,2.0,32.0,aucun,proprietaire,1,qualifie,1,oui,non,4540.0989762114505
+< 0 Euro,18,bon,ameublement,1131,< 100 Euro,chomeur,2.0,33.0,aucun,proprietaire,1,qualifie,1,oui,oui,6677.579951627739
+1 - 200 Euro,11,bon,ameublement,1577,> 1000 Euro,< 1 annee,1.0,20.0,aucun,proprietaire,1,qualifie,1,oui,non,11321.8277473224
+inconnu,24,bon,ameublement,3972,< 100 Euro,4 - 7 annees,4.0,25.0,aucun,locataire,1,qualifie,1,oui,non,13966.7804259528
+1 - 200 Euro,24,critique,business,1935,< 100 Euro,> 7 annees,4.0,31.0,aucun,proprietaire,2,qualifie,1,oui,oui,9975.01412044614
+< 0 Euro,15,parfait,auto,950,< 100 Euro,> 7 annees,3.0,33.0,aucun,locataire,2,qualifie,2,oui,oui,5166.31973298206
+inconnu,12,bon,ameublement,763,< 100 Euro,1 - 4 annees,1.0,26.0,aucun,proprietaire,1,qualifie,1,oui,non,4446.7233747348
+1 - 200 Euro,24,pauvre,ameublement,2064,< 100 Euro,chomeur,2.0,34.0,aucun,proprietaire,1,management,1,oui,oui,7245.78182469843
+1 - 200 Euro,8,bon,ameublement,1414,< 100 Euro,1 - 4 annees,2.0,33.0,aucun,proprietaire,1,qualifie,1,oui,non,6780.1516929317395
+< 0 Euro,21,pauvre,education,3414,< 100 Euro,< 1 annee,1.0,26.0,aucun,proprietaire,2,qualifie,1,oui,oui,10734.4916332355
+inconnu,30,tres bon,auto,7485,inconnu,chomeur,1.0,53.0,banque,proprietaire,1,management,1,oui,oui,35975.9193311592
+< 0 Euro,12,bon,ameublement,2577,< 100 Euro,1 - 4 annees,1.0,42.0,aucun,proprietaire,1,qualifie,1,oui,non,8948.165958990709
+< 0 Euro,6,critique,ameublement,338,500 - 1000 Euro,> 7 annees,4.0,52.0,aucun,proprietaire,2,qualifie,1,oui,non,1826.9308357570198
+inconnu,12,bon,ameublement,1963,< 100 Euro,4 - 7 annees,2.0,31.0,aucun,locataire,2,management,2,oui,non,13625.4805274725
+< 0 Euro,21,critique,auto,571,< 100 Euro,> 7 annees,4.0,65.0,aucun,proprietaire,2,qualifie,1,oui,non,3568.5809775236407
+inconnu,36,pauvre,business,9572,< 100 Euro,< 1 annee,1.0,28.0,aucun,proprietaire,2,qualifie,1,oui,oui,16664.746522158
+1 - 200 Euro,36,pauvre,business,4455,< 100 Euro,1 - 4 annees,2.0,30.0,magasin,proprietaire,2,management,1,oui,oui,13620.685980235201
+< 0 Euro,21,tres bon,auto,1647,inconnu,1 - 4 annees,2.0,40.0,aucun,proprietaire,2,non_qualifie,2,oui,oui,10033.464727630699
+inconnu,24,critique,ameublement,3777,> 1000 Euro,1 - 4 annees,4.0,50.0,aucun,proprietaire,1,qualifie,1,oui,non,17573.7058241421
+1 - 200 Euro,18,critique,auto,884,< 100 Euro,> 7 annees,4.0,36.0,banque,proprietaire,1,qualifie,2,oui,oui,4896.1347592957
+inconnu,15,critique,ameublement,1360,< 100 Euro,1 - 4 annees,2.0,31.0,aucun,proprietaire,2,qualifie,1,oui,non,7847.02338656461
+1 - 200 Euro,9,tres bon,auto,5129,< 100 Euro,> 7 annees,4.0,74.0,banque,autre,1,management,2,oui,oui,11888.4793940476
+1 - 200 Euro,16,critique,auto,1175,< 100 Euro,chomeur,3.0,68.0,aucun,autre,3,chomeur,1,oui,non,4170.44582189804
+< 0 Euro,12,bon,ameublement,674,100 - 500 Euro,4 - 7 annees,1.0,20.0,aucun,proprietaire,1,qualifie,1,oui,oui,4295.80087734551
+1 - 200 Euro,18,parfait,ameublement,3244,< 100 Euro,1 - 4 annees,4.0,33.0,banque,proprietaire,2,qualifie,1,oui,non,4253.060821539179
+inconnu,24,bon,business,4591,> 1000 Euro,1 - 4 annees,3.0,54.0,aucun,proprietaire,3,management,1,oui,oui,11813.628509518101
+1 - 200 Euro,48,parfait,business,3844,100 - 500 Euro,4 - 7 annees,4.0,34.0,aucun,autre,1,non_qualifie,2,oui,oui,17744.2522780806
+1 - 200 Euro,27,bon,business,3915,< 100 Euro,1 - 4 annees,2.0,36.0,aucun,proprietaire,1,qualifie,2,oui,oui,26392.7951063867
+inconnu,6,bon,ameublement,2108,< 100 Euro,4 - 7 annees,2.0,29.0,aucun,locataire,1,qualifie,1,oui,non,7199.50821301996
+1 - 200 Euro,45,bon,ameublement,3031,100 - 500 Euro,1 - 4 annees,4.0,21.0,aucun,locataire,1,qualifie,1,oui,oui,19050.344669431102
+1 - 200 Euro,9,critique,education,1501,< 100 Euro,> 7 annees,3.0,34.0,aucun,proprietaire,2,management,1,oui,oui,3758.55295011115
+inconnu,6,critique,ameublement,1382,< 100 Euro,1 - 4 annees,1.0,28.0,aucun,proprietaire,2,qualifie,1,oui,non,2447.90210925332
+1 - 200 Euro,12,bon,ameublement,951,100 - 500 Euro,< 1 annee,4.0,27.0,banque,locataire,4,qualifie,1,oui,oui,4244.37236422242
+1 - 200 Euro,24,bon,auto,2760,inconnu,> 7 annees,4.0,36.0,banque,autre,1,qualifie,1,oui,non,15926.559811781699
+1 - 200 Euro,18,pauvre,ameublement,4297,< 100 Euro,> 7 annees,3.0,40.0,aucun,proprietaire,1,management,1,oui,oui,24464.3044442044
+inconnu,9,critique,education,936,500 - 1000 Euro,> 7 annees,2.0,52.0,aucun,proprietaire,2,qualifie,1,oui,non,5474.39912392129
+< 0 Euro,12,bon,auto,1168,< 100 Euro,1 - 4 annees,3.0,27.0,aucun,proprietaire,1,non_qualifie,1,oui,non,6809.07164244164
+inconnu,27,pauvre,business,5117,< 100 Euro,4 - 7 annees,4.0,26.0,aucun,proprietaire,2,qualifie,1,oui,non,21687.7278004843
+< 0 Euro,12,bon,education,902,< 100 Euro,4 - 7 annees,4.0,21.0,aucun,locataire,1,qualifie,1,oui,oui,4273.451776081621
+inconnu,12,critique,auto,1495,< 100 Euro,> 7 annees,1.0,38.0,aucun,proprietaire,2,non_qualifie,2,oui,non,10433.8423082108
+< 0 Euro,30,critique,auto,10623,< 100 Euro,> 7 annees,4.0,38.0,aucun,autre,3,management,2,oui,non,34755.300940246605
+inconnu,12,critique,ameublement,1935,< 100 Euro,> 7 annees,4.0,43.0,aucun,proprietaire,3,qualifie,1,oui,non,9240.866931218392
+1 - 200 Euro,12,critique,ameublement,1424,< 100 Euro,4 - 7 annees,3.0,26.0,aucun,proprietaire,1,qualifie,1,oui,non,8122.52872115109
+< 0 Euro,24,bon,business,6568,< 100 Euro,1 - 4 annees,2.0,21.0,magasin,proprietaire,1,non_qualifie,1,oui,non,14093.3184807058
+inconnu,12,bon,auto,1413,> 1000 Euro,4 - 7 annees,2.0,55.0,aucun,proprietaire,1,qualifie,1,oui,non,6483.458220382061
+inconnu,9,critique,ameublement,3074,inconnu,1 - 4 annees,2.0,33.0,aucun,proprietaire,2,qualifie,2,oui,non,5266.684695307879
+inconnu,36,bon,ameublement,3835,inconnu,> 7 annees,4.0,45.0,aucun,proprietaire,1,non_qualifie,1,oui,non,7985.802112818041
+< 0 Euro,27,parfait,business,5293,< 100 Euro,chomeur,4.0,50.0,magasin,proprietaire,2,qualifie,1,oui,oui,10594.6401067709
+> 200 Euro,30,pauvre,business,1908,< 100 Euro,> 7 annees,4.0,66.0,aucun,proprietaire,1,management,1,oui,oui,13655.301067916202
+inconnu,36,critique,ameublement,3342,inconnu,> 7 annees,2.0,51.0,aucun,proprietaire,1,qualifie,1,oui,non,20848.658338926
+1 - 200 Euro,6,critique,education,932,inconnu,4 - 7 annees,3.0,39.0,aucun,proprietaire,2,non_qualifie,1,oui,non,1047.55856436298
+< 0 Euro,18,parfait,business,3104,< 100 Euro,4 - 7 annees,1.0,31.0,banque,proprietaire,1,qualifie,1,oui,non,15100.381809588
+> 200 Euro,36,bon,ameublement,3913,< 100 Euro,1 - 4 annees,2.0,23.0,aucun,proprietaire,1,qualifie,1,oui,non,12910.531242937901
+< 0 Euro,24,bon,ameublement,3021,< 100 Euro,1 - 4 annees,2.0,24.0,aucun,locataire,1,non_qualifie,1,oui,non,6069.691660183461
+inconnu,10,bon,auto,1364,< 100 Euro,1 - 4 annees,4.0,64.0,aucun,proprietaire,1,qualifie,1,oui,non,4204.83796700245
+1 - 200 Euro,12,bon,ameublement,625,< 100 Euro,< 1 annee,1.0,26.0,banque,proprietaire,1,non_qualifie,1,oui,non,2895.1389258901
+< 0 Euro,12,bon,education,1200,inconnu,1 - 4 annees,4.0,23.0,banque,locataire,1,qualifie,1,oui,non,5112.072932751121
+inconnu,12,bon,ameublement,707,< 100 Euro,1 - 4 annees,2.0,30.0,banque,proprietaire,2,qualifie,1,oui,non,4504.38901229574
+inconnu,24,pauvre,business,2978,inconnu,1 - 4 annees,4.0,32.0,aucun,proprietaire,2,qualifie,2,oui,non,17605.019947573102
+inconnu,15,bon,auto,4657,< 100 Euro,1 - 4 annees,2.0,30.0,aucun,proprietaire,1,qualifie,1,oui,non,21734.8469609124
+inconnu,36,parfait,renonvations,2613,< 100 Euro,1 - 4 annees,2.0,27.0,aucun,proprietaire,2,qualifie,1,oui,non,14286.3110432774
+1 - 200 Euro,48,bon,ameublement,10961,> 1000 Euro,4 - 7 annees,2.0,27.0,banque,proprietaire,2,qualifie,1,oui,oui,12802.8133240627
+< 0 Euro,12,bon,ameublement,7865,< 100 Euro,> 7 annees,4.0,53.0,aucun,autre,1,management,1,oui,oui,52615.0547968884
+inconnu,9,bon,ameublement,1478,< 100 Euro,4 - 7 annees,2.0,22.0,aucun,proprietaire,1,qualifie,1,oui,oui,8388.50124960502
+< 0 Euro,24,bon,ameublement,3149,< 100 Euro,< 1 annee,1.0,22.0,banque,autre,1,qualifie,1,oui,non,18226.0660945863
+> 200 Euro,36,bon,ameublement,4210,< 100 Euro,1 - 4 annees,2.0,26.0,aucun,proprietaire,1,qualifie,1,oui,oui,18930.4022530263
+inconnu,9,bon,auto,2507,500 - 1000 Euro,> 7 annees,4.0,51.0,aucun,autre,1,non_qualifie,1,oui,non,6596.57329987455
+inconnu,12,bon,ameublement,2141,100 - 500 Euro,4 - 7 annees,1.0,35.0,aucun,proprietaire,1,qualifie,1,oui,non,8349.88218995486
+1 - 200 Euro,18,bon,ameublement,866,< 100 Euro,1 - 4 annees,2.0,25.0,aucun,proprietaire,1,non_qualifie,1,oui,non,4239.21752681129
+inconnu,4,critique,ameublement,1544,< 100 Euro,4 - 7 annees,1.0,42.0,aucun,proprietaire,3,non_qualifie,2,oui,non,4121.26369332141
+< 0 Euro,24,bon,ameublement,1823,< 100 Euro,chomeur,2.0,30.0,magasin,proprietaire,1,management,2,oui,oui,12901.8984390644
+1 - 200 Euro,6,bon,auto,14555,inconnu,chomeur,2.0,23.0,aucun,proprietaire,1,chomeur,1,oui,oui,15665.440979023
+1 - 200 Euro,21,bon,business,2767,100 - 500 Euro,> 7 annees,2.0,61.0,banque,locataire,2,non_qualifie,1,oui,oui,13952.8004566707
+inconnu,12,critique,ameublement,1291,< 100 Euro,1 - 4 annees,2.0,35.0,aucun,proprietaire,2,qualifie,1,oui,non,8465.48380958255
+< 0 Euro,30,bon,ameublement,2522,< 100 Euro,> 7 annees,3.0,39.0,aucun,proprietaire,1,qualifie,2,oui,non,3652.65007164389
+< 0 Euro,24,bon,auto,915,inconnu,> 7 annees,2.0,29.0,banque,proprietaire,1,qualifie,1,oui,oui,4079.4843757926
+inconnu,6,bon,ameublement,1595,< 100 Euro,4 - 7 annees,2.0,51.0,aucun,proprietaire,1,qualifie,2,oui,non,6706.88750617239
+< 0 Euro,48,parfait,auto,4605,< 100 Euro,> 7 annees,4.0,24.0,aucun,autre,2,qualifie,2,oui,oui,17017.9091721131
+inconnu,12,critique,business,1185,< 100 Euro,1 - 4 annees,2.0,27.0,aucun,proprietaire,2,qualifie,1,oui,non,4146.29630056572
+inconnu,12,tres bon,education,3447,500 - 1000 Euro,1 - 4 annees,3.0,35.0,aucun,proprietaire,1,non_qualifie,2,oui,non,18085.1589107743
+inconnu,24,bon,business,1258,< 100 Euro,4 - 7 annees,1.0,25.0,aucun,proprietaire,1,qualifie,1,oui,non,5085.15970163372
+inconnu,12,critique,ameublement,717,< 100 Euro,> 7 annees,4.0,52.0,aucun,proprietaire,3,qualifie,1,oui,non,4050.585392707079
+inconnu,6,parfait,auto,1204,100 - 500 Euro,1 - 4 annees,1.0,35.0,banque,locataire,1,qualifie,1,oui,non,6688.12769168565
+> 200 Euro,24,bon,ameublement,1925,< 100 Euro,1 - 4 annees,2.0,26.0,aucun,proprietaire,1,qualifie,1,oui,non,5733.440010041801
+inconnu,18,bon,ameublement,433,< 100 Euro,chomeur,4.0,22.0,aucun,locataire,1,qualifie,1,oui,oui,1493.8238987335599
+< 0 Euro,6,critique,auto,666,> 1000 Euro,4 - 7 annees,4.0,39.0,aucun,proprietaire,2,non_qualifie,1,oui,non,2021.5040222781306
+> 200 Euro,12,bon,ameublement,2251,< 100 Euro,1 - 4 annees,2.0,46.0,aucun,proprietaire,1,non_qualifie,1,oui,non,2949.43139285057
+1 - 200 Euro,30,bon,auto,2150,< 100 Euro,1 - 4 annees,2.0,24.0,banque,proprietaire,1,qualifie,1,oui,oui,11742.7972727303
+inconnu,24,pauvre,ameublement,4151,100 - 500 Euro,1 - 4 annees,3.0,35.0,aucun,proprietaire,2,qualifie,1,oui,non,12876.2034699903
+1 - 200 Euro,9,bon,ameublement,2030,inconnu,4 - 7 annees,1.0,24.0,aucun,proprietaire,1,qualifie,1,oui,non,5634.83638864323
+1 - 200 Euro,60,pauvre,ameublement,7418,inconnu,1 - 4 annees,1.0,27.0,aucun,proprietaire,1,non_qualifie,1,oui,non,8922.07211110872
+inconnu,24,critique,ameublement,2684,< 100 Euro,1 - 4 annees,2.0,35.0,aucun,proprietaire,2,non_qualifie,1,oui,non,11927.2312113338
+< 0 Euro,12,tres bon,ameublement,2149,< 100 Euro,1 - 4 annees,1.0,29.0,aucun,autre,1,qualifie,1,oui,oui,9831.50635498132
+inconnu,15,bon,auto,3812,100 - 500 Euro,< 1 annee,4.0,23.0,aucun,proprietaire,1,qualifie,1,oui,non,5002.16801497955
+inconnu,11,critique,ameublement,1154,100 - 500 Euro,chomeur,4.0,57.0,aucun,proprietaire,3,non_qualifie,1,oui,non,6037.50393276371
+< 0 Euro,12,bon,ameublement,1657,< 100 Euro,1 - 4 annees,2.0,27.0,aucun,proprietaire,1,qualifie,1,oui,non,5763.131759558381
+< 0 Euro,24,bon,ameublement,1603,< 100 Euro,> 7 annees,4.0,55.0,aucun,proprietaire,1,qualifie,1,oui,non,10822.7802926815
+< 0 Euro,18,critique,auto,5302,< 100 Euro,> 7 annees,4.0,36.0,aucun,autre,3,management,1,oui,non,10977.2286122067
+inconnu,12,critique,education,2748,< 100 Euro,> 7 annees,4.0,57.0,banque,autre,3,non_qualifie,1,oui,non,6841.81742371334
+inconnu,10,critique,auto,1231,< 100 Euro,> 7 annees,4.0,32.0,aucun,proprietaire,2,non_qualifie,2,oui,non,5847.3397226217785
+1 - 200 Euro,15,bon,ameublement,802,< 100 Euro,> 7 annees,3.0,37.0,aucun,proprietaire,1,qualifie,2,oui,oui,3729.188223198
+inconnu,36,critique,business,6304,inconnu,> 7 annees,4.0,36.0,aucun,proprietaire,2,qualifie,1,oui,non,38952.0529347381
+inconnu,24,bon,ameublement,1533,< 100 Euro,< 1 annee,3.0,38.0,magasin,proprietaire,1,qualifie,1,oui,non,6308.44971400619
+< 0 Euro,14,bon,auto,8978,< 100 Euro,> 7 annees,4.0,45.0,aucun,proprietaire,1,management,1,oui,oui,11627.8012141241
+inconnu,24,bon,ameublement,999,inconnu,> 7 annees,2.0,25.0,aucun,proprietaire,2,qualifie,1,oui,non,6312.77505196563
+inconnu,18,bon,auto,2662,inconnu,4 - 7 annees,3.0,32.0,aucun,proprietaire,1,qualifie,1,oui,non,14541.349713138501
+inconnu,12,critique,ameublement,1402,500 - 1000 Euro,4 - 7 annees,4.0,37.0,aucun,locataire,1,qualifie,1,oui,non,5686.60544676963
+1 - 200 Euro,48,tres bon,auto,12169,inconnu,chomeur,4.0,36.0,aucun,autre,1,management,1,oui,non,74065.3069697508
+1 - 200 Euro,48,bon,ameublement,3060,< 100 Euro,4 - 7 annees,4.0,28.0,aucun,proprietaire,2,qualifie,1,oui,oui,16327.2547423798
+< 0 Euro,30,bon,renonvations,11998,< 100 Euro,< 1 annee,1.0,34.0,aucun,proprietaire,1,non_qualifie,1,oui,oui,16664.5597661858
+inconnu,9,bon,ameublement,2697,< 100 Euro,1 - 4 annees,2.0,32.0,aucun,proprietaire,1,qualifie,2,oui,non,4124.8076277049295
+inconnu,18,critique,ameublement,2404,< 100 Euro,1 - 4 annees,2.0,26.0,aucun,proprietaire,2,qualifie,1,oui,non,7015.1039153477
+< 0 Euro,12,bon,ameublement,1262,inconnu,> 7 annees,4.0,49.0,aucun,proprietaire,1,non_qualifie,1,oui,non,2576.2529560798002
+inconnu,6,bon,ameublement,4611,< 100 Euro,< 1 annee,4.0,32.0,aucun,proprietaire,1,qualifie,1,oui,oui,5096.33493403428
+inconnu,24,bon,ameublement,1901,100 - 500 Euro,1 - 4 annees,4.0,29.0,aucun,locataire,1,management,1,oui,non,11320.2451100623
+inconnu,15,critique,auto,3368,> 1000 Euro,> 7 annees,4.0,23.0,aucun,locataire,2,qualifie,1,oui,non,16944.747448765
+inconnu,12,bon,ameublement,1574,< 100 Euro,1 - 4 annees,2.0,50.0,aucun,proprietaire,1,qualifie,1,oui,non,9164.79102614837
+> 200 Euro,18,tres bon,ameublement,1445,inconnu,4 - 7 annees,4.0,49.0,banque,proprietaire,1,non_qualifie,1,oui,non,7187.97010132106
+inconnu,15,critique,ameublement,1520,inconnu,> 7 annees,4.0,63.0,aucun,proprietaire,1,qualifie,1,oui,non,9199.71467738759
+1 - 200 Euro,24,critique,auto,3878,100 - 500 Euro,< 1 annee,2.0,37.0,aucun,proprietaire,1,qualifie,1,oui,non,25950.1049449282
+< 0 Euro,47,bon,auto,10722,< 100 Euro,< 1 annee,1.0,35.0,aucun,proprietaire,1,non_qualifie,1,oui,non,16465.6621918429
+< 0 Euro,48,bon,auto,4788,< 100 Euro,4 - 7 annees,3.0,26.0,aucun,proprietaire,1,qualifie,2,oui,non,25444.064588791804
+1 - 200 Euro,48,pauvre,auto0,7582,100 - 500 Euro,chomeur,4.0,31.0,aucun,autre,1,management,1,oui,non,20826.7250575074
+1 - 200 Euro,12,bon,ameublement,1092,< 100 Euro,1 - 4 annees,4.0,49.0,aucun,proprietaire,2,qualifie,1,oui,non,6746.2277039399205
+< 0 Euro,24,pauvre,ameublement,1024,< 100 Euro,< 1 annee,4.0,48.0,magasin,proprietaire,1,qualifie,1,oui,oui,4941.37689219885
+inconnu,12,bon,business,1076,< 100 Euro,1 - 4 annees,2.0,26.0,aucun,proprietaire,1,qualifie,1,oui,non,2355.52335594362
+1 - 200 Euro,36,bon,auto,9398,< 100 Euro,< 1 annee,4.0,28.0,aucun,locataire,1,management,1,oui,oui,16327.3934649671
+< 0 Euro,24,critique,auto,6419,< 100 Euro,> 7 annees,4.0,44.0,aucun,autre,2,management,2,oui,non,17681.094791326497
+> 200 Euro,42,critique,auto,4796,< 100 Euro,> 7 annees,4.0,56.0,aucun,autre,1,qualifie,1,oui,non,20309.8664545898
+inconnu,48,critique,business,7629,inconnu,> 7 annees,2.0,46.0,banque,proprietaire,2,management,2,oui,non,44973.3795093358
+1 - 200 Euro,48,bon,ameublement,9960,< 100 Euro,< 1 annee,2.0,26.0,aucun,proprietaire,1,qualifie,1,oui,oui,12920.2163104924
+inconnu,6,critique,ameublement,1382,< 100 Euro,1 - 4 annees,1.0,28.0,aucun,proprietaire,2,qualifie,1,oui,non,1965.3321812102802
+inconnu,6,critique,ameublement,1382,< 100 Euro,1 - 4 annees,1.0,28.0,aucun,proprietaire,2,qualifie,1,oui,non,1575.8585923723
+inconnu,6,critique,ameublement,1382,< 100 Euro,1 - 4 annees,1.0,28.0,aucun,proprietaire,2,qualifie,1,oui,non,2048.97025683643
+inconnu,12,bon,auto,4675,inconnu,< 1 annee,4.0,20.0,aucun,locataire,1,qualifie,1,oui,non,7018.63960221921
+inconnu,10,bon,auto,1287,inconnu,> 7 annees,2.0,45.0,aucun,proprietaire,1,non_qualifie,1,oui,non,7428.27960822178
+inconnu,18,bon,ameublement,2515,< 100 Euro,1 - 4 annees,4.0,43.0,aucun,proprietaire,1,qualifie,1,oui,non,13076.0422898167
+1 - 200 Euro,21,critique,ameublement,2745,> 1000 Euro,4 - 7 annees,2.0,32.0,aucun,proprietaire,2,qualifie,1,oui,non,13277.5215938022
+inconnu,6,bon,auto,672,< 100 Euro,chomeur,4.0,54.0,aucun,proprietaire,1,chomeur,1,oui,non,1205.64841267413
+1 - 200 Euro,36,parfait,ameublement,3804,< 100 Euro,1 - 4 annees,1.0,42.0,aucun,proprietaire,1,qualifie,1,oui,oui,21656.9309332639
+> 200 Euro,24,critique,auto,1344,inconnu,4 - 7 annees,2.0,37.0,banque,proprietaire,2,non_qualifie,2,oui,oui,7683.872153541959
+< 0 Euro,10,critique,auto,1038,< 100 Euro,4 - 7 annees,3.0,49.0,aucun,proprietaire,2,qualifie,1,oui,non,5471.55768756012
+inconnu,48,critique,auto,10127,500 - 1000 Euro,1 - 4 annees,2.0,44.0,banque,autre,1,qualifie,1,oui,oui,31957.902731545
+inconnu,6,bon,ameublement,1543,> 1000 Euro,1 - 4 annees,2.0,33.0,aucun,proprietaire,1,qualifie,1,oui,non,10348.9712018688
+inconnu,30,bon,auto,4811,inconnu,4 - 7 annees,4.0,24.0,magasin,locataire,1,non_qualifie,1,oui,non,15241.2918215153
+< 0 Euro,12,bon,ameublement,727,100 - 500 Euro,< 1 annee,3.0,33.0,aucun,proprietaire,1,non_qualifie,1,oui,oui,4523.21628243997
+1 - 200 Euro,8,bon,ameublement,1237,< 100 Euro,1 - 4 annees,4.0,24.0,aucun,proprietaire,1,qualifie,1,oui,oui,6393.95048714929
+1 - 200 Euro,9,bon,auto,276,< 100 Euro,1 - 4 annees,4.0,22.0,aucun,locataire,1,non_qualifie,1,oui,non,1969.8484050473
+1 - 200 Euro,48,bon,auto0,5381,inconnu,chomeur,4.0,40.0,banque,autre,1,chomeur,1,oui,non,25053.1582671842
+inconnu,24,bon,ameublement,5511,100 - 500 Euro,1 - 4 annees,1.0,25.0,magasin,proprietaire,1,qualifie,1,oui,non,30852.5371039116
+> 200 Euro,24,bon,ameublement,3749,< 100 Euro,< 1 annee,4.0,26.0,aucun,proprietaire,1,qualifie,1,oui,non,9495.72661569355
+1 - 200 Euro,12,bon,auto,685,< 100 Euro,4 - 7 annees,3.0,25.0,banque,proprietaire,1,non_qualifie,1,oui,oui,1821.99879122573
+> 200 Euro,4,bon,auto,1494,inconnu,< 1 annee,2.0,29.0,aucun,proprietaire,1,non_qualifie,2,oui,non,1786.4939842813299
+< 0 Euro,36,tres bon,ameublement,2746,< 100 Euro,> 7 annees,4.0,31.0,banque,proprietaire,1,qualifie,1,oui,oui,15843.4725950025
+< 0 Euro,12,bon,ameublement,708,< 100 Euro,1 - 4 annees,3.0,38.0,aucun,proprietaire,1,non_qualifie,2,oui,non,1776.7512518089602
+1 - 200 Euro,24,bon,ameublement,4351,inconnu,1 - 4 annees,4.0,48.0,aucun,proprietaire,1,non_qualifie,1,oui,non,6417.593292678471
+inconnu,12,critique,education,701,< 100 Euro,1 - 4 annees,2.0,32.0,aucun,proprietaire,2,qualifie,1,oui,non,4093.3785703571
+< 0 Euro,15,pauvre,ameublement,3643,< 100 Euro,> 7 annees,4.0,27.0,aucun,proprietaire,2,non_qualifie,1,oui,non,4554.15727460437
+1 - 200 Euro,30,critique,auto,4249,< 100 Euro,chomeur,2.0,28.0,aucun,proprietaire,2,management,1,oui,oui,24399.885764850802
+< 0 Euro,24,bon,ameublement,1938,< 100 Euro,< 1 annee,3.0,32.0,aucun,proprietaire,1,qualifie,1,oui,oui,12549.366521021298
+< 0 Euro,24,bon,auto,2910,< 100 Euro,4 - 7 annees,1.0,34.0,aucun,autre,1,management,1,oui,non,5839.42739326109
+< 0 Euro,18,bon,ameublement,2659,> 1000 Euro,1 - 4 annees,2.0,28.0,aucun,proprietaire,1,qualifie,1,oui,non,13963.8900032697
+inconnu,18,critique,auto,1028,< 100 Euro,1 - 4 annees,3.0,36.0,aucun,proprietaire,2,qualifie,1,oui,non,6350.97411030104
+< 0 Euro,8,critique,auto,3398,< 100 Euro,4 - 7 annees,4.0,39.0,aucun,proprietaire,2,non_qualifie,1,oui,non,5124.1686522745285
+inconnu,12,critique,ameublement,5801,inconnu,> 7 annees,4.0,49.0,aucun,locataire,1,qualifie,1,oui,non,20725.8983469648
+inconnu,24,bon,auto,1525,> 1000 Euro,4 - 7 annees,3.0,34.0,aucun,proprietaire,1,qualifie,2,oui,non,10924.011646918001
+> 200 Euro,36,bon,ameublement,4473,< 100 Euro,> 7 annees,2.0,31.0,aucun,proprietaire,1,qualifie,1,oui,non,25584.737593503
+1 - 200 Euro,6,bon,ameublement,1068,< 100 Euro,> 7 annees,4.0,28.0,aucun,proprietaire,1,qualifie,2,oui,non,6078.706223419809
+< 0 Euro,24,critique,auto,6615,< 100 Euro,chomeur,4.0,75.0,aucun,autre,2,management,1,oui,non,23153.8421962854
+inconnu,18,critique,education,1864,100 - 500 Euro,1 - 4 annees,2.0,30.0,aucun,proprietaire,2,qualifie,1,oui,oui,7589.323655871
+1 - 200 Euro,60,bon,auto,7408,100 - 500 Euro,< 1 annee,2.0,24.0,aucun,proprietaire,1,management,1,oui,oui,31895.575002434303
+inconnu,48,critique,auto,11590,100 - 500 Euro,1 - 4 annees,4.0,24.0,banque,locataire,2,non_qualifie,1,oui,oui,24128.4636796009
+< 0 Euro,24,parfait,ameublement,4110,< 100 Euro,> 7 annees,4.0,23.0,banque,locataire,2,qualifie,2,oui,oui,19440.2039017346
+< 0 Euro,6,critique,ameublement,3384,< 100 Euro,1 - 4 annees,4.0,44.0,aucun,locataire,1,management,1,oui,oui,5601.68840982022
+1 - 200 Euro,13,bon,ameublement,2101,< 100 Euro,< 1 annee,4.0,23.0,aucun,proprietaire,1,non_qualifie,1,oui,non,4329.304706868689
+< 0 Euro,15,bon,ameublement,1275,inconnu,1 - 4 annees,2.0,24.0,aucun,locataire,1,qualifie,1,oui,oui,7095.79992952332
+< 0 Euro,24,bon,ameublement,4169,< 100 Euro,1 - 4 annees,4.0,28.0,aucun,proprietaire,1,qualifie,1,oui,non,22641.6344541687
+1 - 200 Euro,10,bon,ameublement,1521,< 100 Euro,1 - 4 annees,2.0,31.0,aucun,proprietaire,1,non_qualifie,1,oui,non,10024.878547536899
+1 - 200 Euro,24,critique,education,5743,< 100 Euro,< 1 annee,4.0,24.0,aucun,autre,2,qualifie,1,oui,non,14504.2976390263
+< 0 Euro,21,bon,ameublement,3599,< 100 Euro,4 - 7 annees,4.0,26.0,aucun,locataire,1,non_qualifie,1,oui,non,4154.37614336515
+1 - 200 Euro,18,bon,ameublement,3213,500 - 1000 Euro,< 1 annee,3.0,25.0,aucun,locataire,1,qualifie,1,oui,non,3769.24781862693
+1 - 200 Euro,18,bon,business,4439,< 100 Euro,> 7 annees,1.0,33.0,banque,proprietaire,1,management,1,oui,non,6738.38433364952
+> 200 Euro,10,bon,auto,3949,< 100 Euro,< 1 annee,1.0,37.0,aucun,proprietaire,1,non_qualifie,2,oui,non,5453.25929174299
+inconnu,15,critique,ameublement,1459,< 100 Euro,1 - 4 annees,2.0,43.0,aucun,proprietaire,1,non_qualifie,1,oui,non,5898.31117352183
+1 - 200 Euro,13,critique,ameublement,882,< 100 Euro,< 1 annee,4.0,23.0,aucun,proprietaire,2,qualifie,1,oui,non,3976.7032117942094
+1 - 200 Euro,24,bon,ameublement,3758,500 - 1000 Euro,chomeur,4.0,23.0,aucun,locataire,1,chomeur,1,oui,non,3842.0277301463
+inconnu,6,pauvre,business,1743,100 - 500 Euro,1 - 4 annees,2.0,34.0,aucun,proprietaire,2,non_qualifie,1,oui,non,2754.4053810824603
+1 - 200 Euro,9,critique,education,1136,> 1000 Euro,> 7 annees,3.0,32.0,aucun,autre,2,qualifie,2,oui,oui,6270.506710326579
+inconnu,9,bon,ameublement,1236,< 100 Euro,< 1 annee,4.0,23.0,aucun,locataire,1,qualifie,1,oui,non,1622.30538552139
+1 - 200 Euro,9,bon,ameublement,959,< 100 Euro,1 - 4 annees,2.0,29.0,aucun,proprietaire,1,qualifie,1,oui,oui,1113.36609844749
+inconnu,18,critique,auto,3229,inconnu,chomeur,4.0,38.0,aucun,proprietaire,1,management,1,oui,non,8009.861840032429
+< 0 Euro,12,parfait,ameublement,6199,< 100 Euro,1 - 4 annees,2.0,28.0,aucun,locataire,2,qualifie,1,oui,oui,44450.071445456786
+inconnu,10,bon,education,727,500 - 1000 Euro,> 7 annees,4.0,46.0,aucun,autre,1,qualifie,1,oui,non,4264.45800473526
+1 - 200 Euro,24,bon,auto,1246,< 100 Euro,< 1 annee,2.0,23.0,magasin,proprietaire,1,non_qualifie,1,oui,oui,8186.131406027271
+inconnu,12,critique,ameublement,2331,inconnu,> 7 annees,4.0,49.0,aucun,proprietaire,1,qualifie,1,oui,non,3429.75029148812
+inconnu,36,pauvre,ameublement,4463,< 100 Euro,1 - 4 annees,2.0,26.0,aucun,proprietaire,2,management,1,oui,oui,21160.7538746276
+inconnu,12,bon,ameublement,776,< 100 Euro,1 - 4 annees,2.0,28.0,aucun,proprietaire,1,qualifie,1,oui,non,3265.87552074497
+< 0 Euro,30,bon,ameublement,2406,< 100 Euro,4 - 7 annees,4.0,23.0,aucun,locataire,1,qualifie,1,oui,oui,12932.958881198101
+1 - 200 Euro,18,bon,education,1239,inconnu,1 - 4 annees,4.0,61.0,aucun,autre,1,qualifie,1,oui,non,7407.43308352812
+> 200 Euro,12,bon,ameublement,3399,inconnu,> 7 annees,3.0,37.0,aucun,proprietaire,1,management,1,oui,non,10847.6169137248
+> 200 Euro,12,pauvre,auto,2247,< 100 Euro,1 - 4 annees,2.0,36.0,magasin,proprietaire,2,qualifie,1,oui,non,6215.77592833491
+inconnu,6,bon,ameublement,1766,< 100 Euro,1 - 4 annees,2.0,21.0,aucun,locataire,1,qualifie,1,oui,non,1804.7176453314999
+< 0 Euro,18,bon,ameublement,2473,< 100 Euro,chomeur,1.0,25.0,aucun,proprietaire,1,chomeur,1,oui,oui,15678.338830846102
+inconnu,12,bon,business,1542,< 100 Euro,4 - 7 annees,4.0,36.0,aucun,proprietaire,1,qualifie,1,oui,non,3596.64452764675
+inconnu,18,critique,auto,3850,< 100 Euro,4 - 7 annees,1.0,27.0,aucun,proprietaire,2,qualifie,1,oui,non,16172.877378880401
+< 0 Euro,18,bon,ameublement,3650,< 100 Euro,< 1 annee,4.0,22.0,aucun,locataire,1,qualifie,1,oui,non,4234.649191958471
+< 0 Euro,36,bon,ameublement,3446,< 100 Euro,> 7 annees,2.0,42.0,aucun,proprietaire,1,qualifie,2,oui,oui,17171.326777044
+1 - 200 Euro,18,bon,ameublement,3001,< 100 Euro,4 - 7 annees,4.0,40.0,aucun,locataire,1,qualifie,1,oui,non,7747.378243976032
+inconnu,36,bon,auto,3079,inconnu,1 - 4 annees,4.0,36.0,aucun,proprietaire,1,qualifie,1,oui,non,17508.0598548176
+inconnu,18,critique,ameublement,6070,< 100 Euro,> 7 annees,4.0,33.0,aucun,proprietaire,2,qualifie,1,oui,non,24350.574872514902
+inconnu,10,critique,ameublement,2146,< 100 Euro,< 1 annee,3.0,23.0,aucun,locataire,2,qualifie,1,oui,non,3696.87225672845
+inconnu,60,critique,auto,13756,inconnu,> 7 annees,4.0,63.0,banque,autre,1,management,1,oui,non,46952.5929765489
+1 - 200 Euro,60,tres bon,auto0,14782,100 - 500 Euro,> 7 annees,4.0,60.0,banque,autre,2,management,1,oui,oui,66259.61316128599
+< 0 Euro,48,tres bon,business,7685,< 100 Euro,4 - 7 annees,4.0,37.0,aucun,locataire,1,qualifie,1,oui,oui,21404.7851471874
+inconnu,18,pauvre,ameublement,2320,< 100 Euro,chomeur,3.0,34.0,aucun,proprietaire,2,qualifie,1,oui,non,7642.4971951738
+inconnu,7,pauvre,ameublement,846,inconnu,> 7 annees,4.0,36.0,aucun,autre,1,qualifie,1,oui,non,3511.2128127827195
+1 - 200 Euro,36,bon,auto,14318,< 100 Euro,> 7 annees,2.0,57.0,aucun,autre,1,management,1,oui,oui,67264.542618848
+inconnu,6,critique,auto,362,100 - 500 Euro,1 - 4 annees,4.0,52.0,aucun,proprietaire,2,non_qualifie,1,oui,non,1540.91871910022
+< 0 Euro,20,bon,ameublement,2212,inconnu,4 - 7 annees,4.0,39.0,aucun,proprietaire,1,qualifie,1,oui,non,9634.51516144793
+1 - 200 Euro,18,bon,auto,12976,< 100 Euro,chomeur,4.0,38.0,aucun,autre,1,management,1,oui,oui,68256.6905783895
+inconnu,22,bon,auto,1283,inconnu,4 - 7 annees,4.0,25.0,aucun,locataire,1,qualifie,1,oui,non,6343.31850931582
+> 200 Euro,12,bon,auto,1330,< 100 Euro,< 1 annee,1.0,26.0,aucun,proprietaire,1,qualifie,1,oui,non,5333.7143628048
+inconnu,30,pauvre,business,4272,100 - 500 Euro,1 - 4 annees,2.0,26.0,aucun,proprietaire,2,non_qualifie,1,oui,non,11179.9547052892
+inconnu,18,critique,ameublement,2238,< 100 Euro,1 - 4 annees,1.0,25.0,aucun,proprietaire,2,qualifie,1,oui,non,6540.10944690813
+inconnu,18,bon,ameublement,1126,inconnu,< 1 annee,2.0,21.0,aucun,locataire,1,qualifie,1,oui,non,7556.98715916458
+1 - 200 Euro,18,critique,ameublement,7374,< 100 Euro,chomeur,4.0,40.0,magasin,proprietaire,2,management,1,oui,non,33277.6008890516
+1 - 200 Euro,15,critique,business,2326,500 - 1000 Euro,1 - 4 annees,4.0,27.0,banque,proprietaire,1,qualifie,1,oui,non,6686.38767417506
+inconnu,9,bon,business,1449,< 100 Euro,4 - 7 annees,2.0,27.0,aucun,proprietaire,2,qualifie,1,oui,non,5420.38335866268
+inconnu,18,bon,auto,1820,< 100 Euro,1 - 4 annees,2.0,30.0,aucun,proprietaire,1,management,1,oui,non,6523.65286535159
+1 - 200 Euro,12,bon,ameublement,983,> 1000 Euro,< 1 annee,4.0,19.0,aucun,locataire,1,non_qualifie,1,oui,non,1611.87771161711
+< 0 Euro,36,bon,auto,3249,< 100 Euro,4 - 7 annees,4.0,39.0,banque,autre,1,management,2,oui,non,10863.647452784
+< 0 Euro,6,critique,ameublement,1957,< 100 Euro,4 - 7 annees,4.0,31.0,aucun,proprietaire,1,qualifie,1,oui,non,2474.32874386401
+inconnu,9,critique,ameublement,2406,< 100 Euro,chomeur,3.0,31.0,aucun,proprietaire,1,management,1,oui,non,7312.60672553952
+1 - 200 Euro,39,pauvre,education,11760,100 - 500 Euro,4 - 7 annees,3.0,32.0,aucun,locataire,1,qualifie,1,oui,non,38720.5270772731
+< 0 Euro,12,bon,ameublement,2578,< 100 Euro,chomeur,4.0,55.0,aucun,autre,1,management,1,oui,non,13284.3404992616
+< 0 Euro,36,critique,ameublement,2348,< 100 Euro,1 - 4 annees,2.0,46.0,aucun,proprietaire,2,qualifie,1,oui,non,8689.13343988869
+1 - 200 Euro,12,bon,auto,1223,< 100 Euro,> 7 annees,1.0,46.0,aucun,locataire,2,qualifie,1,oui,oui,1322.77818743304
+inconnu,24,critique,ameublement,1516,> 1000 Euro,1 - 4 annees,1.0,43.0,aucun,proprietaire,2,non_qualifie,1,oui,non,6650.0661860865
+inconnu,18,bon,ameublement,1473,< 100 Euro,< 1 annee,4.0,39.0,aucun,proprietaire,1,qualifie,1,oui,non,4638.3444304808
+1 - 200 Euro,18,critique,business,1887,inconnu,1 - 4 annees,4.0,28.0,banque,proprietaire,2,qualifie,1,oui,non,9848.18581743885
+inconnu,24,pauvre,business,8648,< 100 Euro,< 1 annee,2.0,27.0,banque,proprietaire,2,qualifie,1,oui,oui,19401.4857479288
+inconnu,14,pauvre,auto,802,< 100 Euro,1 - 4 annees,2.0,27.0,aucun,proprietaire,2,non_qualifie,1,oui,non,4665.49151563365
+1 - 200 Euro,18,pauvre,auto,2899,inconnu,> 7 annees,4.0,43.0,aucun,proprietaire,1,qualifie,2,oui,non,13973.8869942877
+1 - 200 Euro,24,bon,ameublement,2039,< 100 Euro,< 1 annee,1.0,22.0,aucun,proprietaire,1,qualifie,1,oui,oui,3164.4228080066305
+inconnu,24,critique,auto,2197,inconnu,4 - 7 annees,4.0,43.0,aucun,proprietaire,2,qualifie,2,oui,non,15764.3442389994
+< 0 Euro,15,bon,ameublement,1053,< 100 Euro,< 1 annee,2.0,27.0,aucun,proprietaire,1,qualifie,1,oui,non,5556.550232197729
+inconnu,15,bon,auto,1430,500 - 1000 Euro,> 7 annees,,31.0,aucun,proprietaire,2,qualifie,2,oui,non,6493.12017090001
+inconnu,24,bon,ameublement,3235,500 - 1000 Euro,> 7 annees,2.0,26.0,aucun,proprietaire,1,management,1,oui,non,14169.4968740018
+> 200 Euro,12,critique,auto,939,500 - 1000 Euro,4 - 7 annees,2.0,28.0,aucun,proprietaire,3,qualifie,1,oui,oui,6508.43784739293
+1 - 200 Euro,24,bon,ameublement,1967,< 100 Euro,> 7 annees,4.0,20.0,aucun,proprietaire,1,qualifie,1,oui,non,8104.40995750147
+inconnu,33,critique,auto,7253,< 100 Euro,4 - 7 annees,2.0,35.0,aucun,proprietaire,2,management,1,oui,non,29582.9198729692
+inconnu,12,critique,business,2292,< 100 Euro,chomeur,2.0,42.0,magasin,proprietaire,2,management,1,oui,oui,12788.5159970424
+inconnu,10,bon,auto,1597,500 - 1000 Euro,1 - 4 annees,2.0,40.0,aucun,locataire,1,non_qualifie,2,oui,non,5388.80711770958
+< 0 Euro,24,bon,auto,1381,inconnu,1 - 4 annees,2.0,35.0,aucun,proprietaire,1,qualifie,1,oui,oui,7345.523391373721
+inconnu,36,critique,auto,5842,< 100 Euro,> 7 annees,2.0,35.0,aucun,proprietaire,2,qualifie,2,oui,non,19417.6237590822
+< 0 Euro,12,bon,auto,2579,< 100 Euro,< 1 annee,1.0,33.0,aucun,proprietaire,1,non_qualifie,2,oui,oui,17222.9527598702
+< 0 Euro,18,pauvre,education,8471,inconnu,1 - 4 annees,2.0,23.0,aucun,locataire,2,qualifie,1,oui,non,11287.6406415748
+inconnu,21,bon,auto,2782,500 - 1000 Euro,4 - 7 annees,2.0,31.0,banque,proprietaire,1,management,1,oui,non,4500.42186713767
+1 - 200 Euro,18,bon,auto,1042,inconnu,1 - 4 annees,2.0,33.0,aucun,proprietaire,1,qualifie,1,oui,oui,6584.997073489
+inconnu,15,bon,auto,3186,> 1000 Euro,4 - 7 annees,3.0,20.0,aucun,locataire,1,qualifie,1,oui,non,11443.081557028701
+1 - 200 Euro,12,bon,auto,2028,inconnu,1 - 4 annees,2.0,30.0,aucun,proprietaire,1,qualifie,1,oui,non,14380.7008736143
+1 - 200 Euro,12,critique,auto,958,< 100 Euro,4 - 7 annees,3.0,47.0,aucun,proprietaire,2,non_qualifie,2,oui,non,3070.0666809352697
+inconnu,21,pauvre,ameublement,1591,100 - 500 Euro,4 - 7 annees,3.0,34.0,aucun,proprietaire,2,management,1,oui,non,9327.33884773429
+1 - 200 Euro,12,bon,ameublement,2762,inconnu,> 7 annees,2.0,25.0,banque,proprietaire,1,qualifie,1,oui,oui,3603.33396443881
+1 - 200 Euro,18,bon,auto,2779,< 100 Euro,1 - 4 annees,3.0,21.0,aucun,locataire,1,qualifie,1,oui,non,3404.88271094711
+inconnu,28,critique,ameublement,2743,< 100 Euro,> 7 annees,2.0,29.0,aucun,proprietaire,2,qualifie,1,oui,non,18073.7323430469
+inconnu,18,critique,ameublement,1149,> 1000 Euro,1 - 4 annees,3.0,46.0,aucun,proprietaire,2,qualifie,1,oui,non,8113.5103922763
+inconnu,9,bon,ameublement,1313,< 100 Euro,> 7 annees,4.0,20.0,aucun,proprietaire,1,qualifie,1,oui,non,1440.5145712016904
+< 0 Euro,18,critique,renonvations,1190,< 100 Euro,chomeur,4.0,55.0,aucun,autre,3,chomeur,2,oui,oui,3057.03722325984
+inconnu,5,bon,business,3448,< 100 Euro,4 - 7 annees,4.0,74.0,aucun,proprietaire,1,non_qualifie,1,oui,non,3972.68016672406
+1 - 200 Euro,24,bon,auto0,11328,< 100 Euro,1 - 4 annees,3.0,29.0,banque,proprietaire,2,management,1,oui,oui,23672.9015646662
+< 0 Euro,6,critique,ameublement,1872,< 100 Euro,chomeur,4.0,36.0,aucun,autre,3,management,1,oui,non,12756.862084158602
+inconnu,24,critique,renonvations,2058,< 100 Euro,1 - 4 annees,2.0,33.0,aucun,proprietaire,2,qualifie,1,oui,non,9059.1153496111
+< 0 Euro,9,bon,ameublement,2136,< 100 Euro,1 - 4 annees,2.0,25.0,aucun,proprietaire,1,qualifie,1,oui,non,10685.9732791781
+1 - 200 Euro,12,bon,ameublement,1484,inconnu,1 - 4 annees,1.0,25.0,aucun,proprietaire,1,qualifie,1,oui,oui,4934.17646647108
+inconnu,6,bon,renonvations,660,500 - 1000 Euro,4 - 7 annees,4.0,23.0,aucun,locataire,1,non_qualifie,1,oui,non,1902.8555550490696
+inconnu,24,critique,auto,1287,> 1000 Euro,> 7 annees,4.0,37.0,aucun,proprietaire,2,qualifie,1,oui,non,6652.80779588807
+< 0 Euro,42,critique,renonvations,3394,< 100 Euro,chomeur,4.0,65.0,aucun,proprietaire,2,chomeur,1,oui,non,22786.1139537594
+> 200 Euro,12,tres bon,business,609,< 100 Euro,< 1 annee,1.0,26.0,aucun,proprietaire,1,chomeur,1,oui,oui,3544.9086203444604
+inconnu,12,bon,auto,1884,< 100 Euro,> 7 annees,4.0,39.0,aucun,proprietaire,1,management,1,oui,non,11926.6419801122
+< 0 Euro,12,bon,ameublement,1620,< 100 Euro,1 - 4 annees,3.0,30.0,aucun,proprietaire,1,qualifie,1,oui,non,4073.9540807885996
+1 - 200 Euro,20,pauvre,auto0,2629,< 100 Euro,1 - 4 annees,3.0,29.0,banque,proprietaire,2,qualifie,1,oui,non,8948.37597428377
+inconnu,12,bon,education,719,< 100 Euro,> 7 annees,4.0,41.0,banque,proprietaire,1,non_qualifie,2,oui,oui,4964.48699586655
+1 - 200 Euro,48,critique,ameublement,5096,< 100 Euro,1 - 4 annees,3.0,30.0,aucun,proprietaire,1,management,1,oui,oui,11985.9858723248
+inconnu,9,critique,education,1244,inconnu,> 7 annees,4.0,41.0,aucun,locataire,2,non_qualifie,1,oui,non,5126.48843906584
+< 0 Euro,36,bon,auto,1842,< 100 Euro,< 1 annee,4.0,34.0,aucun,proprietaire,1,qualifie,1,oui,oui,9640.564232932242
+1 - 200 Euro,7,bon,ameublement,2576,< 100 Euro,1 - 4 annees,2.0,35.0,aucun,proprietaire,1,qualifie,1,oui,non,5192.47864634562
+> 200 Euro,12,bon,ameublement,1424,inconnu,> 7 annees,4.0,55.0,aucun,proprietaire,1,management,1,oui,non,5743.91932759647
+1 - 200 Euro,15,pauvre,renonvations,1512,> 1000 Euro,1 - 4 annees,3.0,61.0,magasin,proprietaire,2,qualifie,1,oui,oui,7346.194656109591
+inconnu,36,critique,auto,11054,inconnu,1 - 4 annees,2.0,30.0,aucun,proprietaire,1,management,1,oui,non,50137.859231166396
+inconnu,6,bon,ameublement,518,< 100 Euro,1 - 4 annees,1.0,29.0,aucun,proprietaire,1,qualifie,1,oui,non,2328.37386415361
+inconnu,10,pauvre,business,2440,,4 - 7 annees,1.0,29.0,aucun,proprietaire,2,qualifie,1,oui,oui,3604.96043763136
+inconnu,12,parfait,ameublement,2759,< 100 Euro,> 7 annees,4.0,34.0,aucun,proprietaire,2,qualifie,1,oui,non,8795.31980446667
+inconnu,24,bon,auto,2670,< 100 Euro,> 7 annees,4.0,35.0,aucun,proprietaire,1,management,1,oui,non,14362.9033575544
+< 0 Euro,24,bon,auto,4817,< 100 Euro,4 - 7 annees,3.0,31.0,aucun,proprietaire,1,qualifie,1,oui,oui,11275.234567868798
+inconnu,24,bon,auto,2679,< 100 Euro,< 1 annee,1.0,29.0,aucun,proprietaire,1,management,1,oui,non,11171.283960146899
+< 0 Euro,11,critique,auto,3905,< 100 Euro,1 - 4 annees,2.0,36.0,aucun,locataire,2,qualifie,2,oui,non,11038.7067386833
+< 0 Euro,12,bon,auto,3386,< 100 Euro,> 7 annees,4.0,35.0,aucun,autre,1,qualifie,1,oui,oui,14441.0585346826
+< 0 Euro,6,bon,ameublement,343,< 100 Euro,< 1 annee,1.0,27.0,aucun,proprietaire,1,qualifie,1,oui,non,1951.3153188128
+inconnu,18,bon,ameublement,4594,< 100 Euro,< 1 annee,2.0,32.0,aucun,proprietaire,1,qualifie,1,oui,non,23073.2696889079
+< 0 Euro,36,bon,ameublement,3620,< 100 Euro,1 - 4 annees,2.0,37.0,aucun,proprietaire,1,qualifie,2,oui,non,4091.10132274837
+< 0 Euro,15,bon,auto,1721,< 100 Euro,< 1 annee,3.0,36.0,aucun,proprietaire,1,qualifie,1,oui,non,5098.88569203364
+1 - 200 Euro,12,bon,ameublement,3017,< 100 Euro,< 1 annee,1.0,34.0,aucun,locataire,1,management,1,oui,non,16225.0845476956
+1 - 200 Euro,12,bon,education,754,inconnu,> 7 annees,4.0,38.0,aucun,proprietaire,2,qualifie,1,oui,non,3257.92761424557
+inconnu,18,bon,business,1950,< 100 Euro,4 - 7 annees,1.0,34.0,magasin,proprietaire,2,qualifie,1,oui,non,12324.9814482804
+< 0 Euro,24,bon,auto,2924,< 100 Euro,1 - 4 annees,4.0,63.0,banque,proprietaire,1,qualifie,2,oui,non,11429.795383878798
+< 0 Euro,24,pauvre,ameublement,1659,< 100 Euro,< 1 annee,2.0,29.0,aucun,locataire,1,non_qualifie,1,oui,oui,9397.6785522678
+inconnu,48,pauvre,ameublement,7238,inconnu,> 7 annees,3.0,32.0,banque,proprietaire,2,qualifie,2,oui,non,36243.2031172795
+inconnu,33,pauvre,business,2764,< 100 Euro,1 - 4 annees,2.0,26.0,aucun,proprietaire,2,qualifie,1,oui,non,9184.57884724974
+inconnu,24,pauvre,auto,4679,< 100 Euro,4 - 7 annees,3.0,35.0,aucun,proprietaire,2,non_qualifie,1,oui,non,23858.572198975402
+1 - 200 Euro,24,bon,ameublement,3092,100 - 500 Euro,< 1 annee,2.0,22.0,aucun,locataire,1,qualifie,1,oui,oui,11548.7698327074
+< 0 Euro,6,bon,education,448,< 100 Euro,< 1 annee,4.0,23.0,aucun,proprietaire,1,qualifie,1,oui,oui,3074.87143396107
+< 0 Euro,9,bon,auto,654,< 100 Euro,1 - 4 annees,3.0,28.0,aucun,proprietaire,1,non_qualifie,1,oui,oui,2884.5683831294
+inconnu,6,bon,education,1238,inconnu,chomeur,4.0,36.0,aucun,proprietaire,1,management,2,oui,non,8299.8990806155
+1 - 200 Euro,18,critique,ameublement,1245,< 100 Euro,1 - 4 annees,2.0,33.0,aucun,proprietaire,1,qualifie,1,oui,oui,5555.40727283406
+< 0 Euro,18,parfait,ameublement,3114,< 100 Euro,< 1 annee,4.0,26.0,aucun,locataire,1,qualifie,1,oui,oui,3185.96157800515
+inconnu,39,bon,auto,2569,500 - 1000 Euro,1 - 4 annees,4.0,24.0,aucun,proprietaire,1,qualifie,1,oui,non,13302.862550911499
+> 200 Euro,24,bon,ameublement,5152,< 100 Euro,4 - 7 annees,2.0,25.0,banque,proprietaire,1,qualifie,1,oui,non,28077.9669112549
+1 - 200 Euro,12,bon,business,1037,100 - 500 Euro,4 - 7 annees,4.0,39.0,aucun,proprietaire,1,non_qualifie,1,oui,non,4272.33368890378
+< 0 Euro,15,critique,ameublement,1478,< 100 Euro,> 7 annees,4.0,44.0,aucun,proprietaire,2,qualifie,2,oui,non,10227.4886796218
+1 - 200 Euro,12,critique,ameublement,3573,< 100 Euro,1 - 4 annees,1.0,23.0,aucun,proprietaire,1,non_qualifie,1,oui,non,6328.899966634879
+1 - 200 Euro,24,bon,auto,1201,< 100 Euro,< 1 annee,1.0,26.0,aucun,proprietaire,1,qualifie,1,oui,non,7674.52442059102
+< 0 Euro,30,bon,ameublement,3622,> 1000 Euro,> 7 annees,4.0,57.0,aucun,locataire,2,qualifie,1,oui,non,20884.4263681735
+inconnu,15,pauvre,ameublement,960,> 1000 Euro,4 - 7 annees,2.0,30.0,aucun,proprietaire,2,qualifie,1,oui,non,4716.1838777289395
+inconnu,12,critique,auto,1163,500 - 1000 Euro,1 - 4 annees,4.0,44.0,aucun,proprietaire,1,qualifie,1,oui,non,7627.765971022642
+1 - 200 Euro,6,pauvre,auto,1209,< 100 Euro,chomeur,4.0,47.0,aucun,proprietaire,1,management,1,oui,oui,7208.50930615458
+inconnu,12,bon,ameublement,3077,< 100 Euro,1 - 4 annees,4.0,52.0,aucun,proprietaire,1,qualifie,1,oui,non,9024.53648571686
+inconnu,24,bon,auto,3757,< 100 Euro,> 7 annees,4.0,62.0,aucun,autre,1,qualifie,1,oui,non,16365.4739269321
+inconnu,10,bon,auto,1418,100 - 500 Euro,1 - 4 annees,2.0,35.0,aucun,locataire,1,non_qualifie,1,oui,non,4317.7229091196505
+inconnu,6,bon,auto,3518,< 100 Euro,1 - 4 annees,3.0,26.0,aucun,locataire,1,qualifie,1,oui,non,11732.5090901987
+inconnu,12,critique,ameublement,1934,< 100 Euro,> 7 annees,2.0,26.0,aucun,proprietaire,2,qualifie,1,oui,non,6277.260840015179
+1 - 200 Euro,27,parfait,business,8318,< 100 Euro,> 7 annees,4.0,42.0,aucun,autre,2,management,1,oui,oui,17624.156684274498
+inconnu,6,critique,ameublement,1237,100 - 500 Euro,1 - 4 annees,1.0,27.0,aucun,proprietaire,2,qualifie,1,oui,non,1275.02832419305
+1 - 200 Euro,6,bon,ameublement,368,inconnu,> 7 annees,4.0,38.0,aucun,proprietaire,1,qualifie,1,oui,non,1791.40105759548
+1 - 200 Euro,6,bon,ameublement,368,inconnu,> 7 annees,4.0,38.0,aucun,proprietaire,1,qualifie,1,oui,non,2541.9322789939
+< 0 Euro,12,critique,auto,2122,< 100 Euro,1 - 4 annees,2.0,39.0,aucun,locataire,2,non_qualifie,2,oui,non,6918.60932713781
+1 - 200 Euro,6,bon,ameublement,368,inconnu,> 7 annees,4.0,38.0,aucun,proprietaire,1,qualifie,1,oui,non,2122.81703804984
+< 0 Euro,24,bon,ameublement,2996,inconnu,1 - 4 annees,4.0,20.0,aucun,proprietaire,1,qualifie,1,oui,oui,6269.50984370341
+1 - 200 Euro,36,bon,ameublement,9034,100 - 500 Euro,< 1 annee,1.0,29.0,aucun,locataire,1,management,1,oui,oui,58195.475643255595
+inconnu,24,critique,ameublement,1585,< 100 Euro,4 - 7 annees,3.0,40.0,aucun,proprietaire,2,qualifie,1,oui,non,6817.43691703697
+1 - 200 Euro,18,bon,ameublement,1301,< 100 Euro,> 7 annees,2.0,32.0,aucun,proprietaire,1,non_qualifie,1,oui,non,8154.43412334493
+> 200 Euro,6,critique,auto,1323,100 - 500 Euro,> 7 annees,4.0,28.0,aucun,proprietaire,2,qualifie,2,oui,non,3209.89907498078
+< 0 Euro,24,bon,auto,3123,< 100 Euro,< 1 annee,1.0,27.0,aucun,proprietaire,1,qualifie,1,oui,oui,18660.1842228168
+< 0 Euro,36,bon,auto,5493,< 100 Euro,> 7 annees,4.0,42.0,aucun,autre,1,qualifie,2,oui,non,19171.1735799591
+> 200 Euro,9,bon,ameublement,1126,100 - 500 Euro,> 7 annees,4.0,49.0,aucun,proprietaire,1,qualifie,1,oui,non,3102.00701926507
+1 - 200 Euro,24,critique,ameublement,1216,100 - 500 Euro,< 1 annee,4.0,38.0,banque,proprietaire,2,qualifie,2,oui,oui,6650.13010914497
+< 0 Euro,24,bon,auto,1207,< 100 Euro,< 1 annee,4.0,24.0,aucun,locataire,1,qualifie,1,oui,oui,7416.857793328158
+inconnu,10,bon,auto,1309,inconnu,1 - 4 annees,4.0,27.0,aucun,proprietaire,1,non_qualifie,1,oui,oui,6216.87097962016
+> 200 Euro,15,critique,auto,2360,500 - 1000 Euro,1 - 4 annees,2.0,36.0,aucun,proprietaire,1,qualifie,1,oui,non,7238.677884694359
+1 - 200 Euro,15,tres bon,auto,6850,100 - 500 Euro,chomeur,2.0,34.0,aucun,proprietaire,1,management,2,oui,oui,11744.9787986451
+inconnu,24,bon,ameublement,1413,< 100 Euro,1 - 4 annees,2.0,28.0,aucun,proprietaire,1,qualifie,1,oui,non,7628.8006788413
+inconnu,39,bon,auto,8588,100 - 500 Euro,> 7 annees,2.0,45.0,aucun,proprietaire,1,management,1,oui,non,60482.8213458376
+< 0 Euro,12,bon,auto,759,< 100 Euro,4 - 7 annees,2.0,26.0,aucun,proprietaire,1,qualifie,1,oui,oui,5309.09429446719
+inconnu,36,bon,auto,4686,< 100 Euro,1 - 4 annees,2.0,32.0,aucun,autre,1,management,1,oui,non,14446.0786558709
+> 200 Euro,15,bon,business,2687,< 100 Euro,4 - 7 annees,4.0,26.0,aucun,locataire,1,qualifie,1,oui,non,5899.5622459224915
+1 - 200 Euro,12,pauvre,ameublement,585,< 100 Euro,1 - 4 annees,4.0,20.0,aucun,locataire,2,qualifie,1,oui,non,4127.5677895258505
+inconnu,24,bon,auto,2255,inconnu,< 1 annee,1.0,54.0,aucun,proprietaire,1,qualifie,1,oui,non,9352.82421707432
+< 0 Euro,6,critique,auto,609,< 100 Euro,4 - 7 annees,3.0,37.0,aucun,proprietaire,2,qualifie,1,oui,non,3038.59879659747
+< 0 Euro,6,critique,auto,1361,< 100 Euro,< 1 annee,4.0,40.0,aucun,proprietaire,1,non_qualifie,2,oui,non,2783.353694232391
+inconnu,36,critique,ameublement,7127,< 100 Euro,< 1 annee,4.0,23.0,aucun,locataire,2,qualifie,1,oui,oui,17875.879727877702
+< 0 Euro,6,bon,auto,1203,100 - 500 Euro,> 7 annees,2.0,43.0,aucun,proprietaire,1,qualifie,1,oui,non,3621.3154118735297
+inconnu,6,critique,ameublement,700,inconnu,> 7 annees,4.0,36.0,aucun,autre,2,qualifie,1,oui,non,3988.3282297373107
+inconnu,24,critique,renonvations,5507,< 100 Euro,> 7 annees,4.0,44.0,aucun,autre,2,qualifie,1,oui,non,25479.1148899272
+< 0 Euro,18,bon,ameublement,3190,< 100 Euro,1 - 4 annees,2.0,24.0,aucun,proprietaire,1,qualifie,1,oui,oui,7171.7188883729405
+< 0 Euro,48,parfait,ameublement,7119,< 100 Euro,1 - 4 annees,4.0,53.0,aucun,autre,2,qualifie,2,oui,oui,37249.1864501468
+inconnu,24,bon,auto,3488,100 - 500 Euro,4 - 7 annees,4.0,23.0,aucun,proprietaire,1,qualifie,1,oui,non,10710.7863607417
+1 - 200 Euro,18,bon,ameublement,1113,< 100 Euro,1 - 4 annees,4.0,26.0,aucun,proprietaire,1,non_qualifie,2,oui,non,6112.249947021999
+1 - 200 Euro,26,bon,auto,7966,< 100 Euro,< 1 annee,3.0,30.0,aucun,proprietaire,2,qualifie,1,oui,non,17820.5152641123
+inconnu,15,critique,education,1532,100 - 500 Euro,1 - 4 annees,3.0,31.0,aucun,proprietaire,1,qualifie,1,oui,non,8506.36913501357
+inconnu,4,critique,ameublement,1503,< 100 Euro,4 - 7 annees,1.0,42.0,aucun,proprietaire,2,non_qualifie,2,oui,non,3669.912893127079
+< 0 Euro,36,bon,ameublement,2302,< 100 Euro,1 - 4 annees,4.0,31.0,aucun,locataire,1,qualifie,1,oui,oui,14674.4399844527
+< 0 Euro,6,bon,auto,662,< 100 Euro,< 1 annee,4.0,41.0,aucun,proprietaire,1,non_qualifie,2,oui,non,2351.06615271424
+1 - 200 Euro,36,bon,education,2273,< 100 Euro,4 - 7 annees,1.0,32.0,aucun,proprietaire,2,qualifie,2,oui,non,9039.38646068186
+1 - 200 Euro,15,bon,auto,2631,100 - 500 Euro,1 - 4 annees,4.0,28.0,aucun,locataire,2,qualifie,1,oui,oui,6137.02850293801
+inconnu,12,pauvre,auto,1503,< 100 Euro,1 - 4 annees,4.0,41.0,aucun,locataire,1,qualifie,1,oui,non,8800.644777777281
+inconnu,24,bon,ameublement,1311,100 - 500 Euro,4 - 7 annees,3.0,26.0,aucun,proprietaire,1,qualifie,1,oui,non,7795.4835317597
+inconnu,24,bon,ameublement,3105,inconnu,< 1 annee,2.0,25.0,aucun,proprietaire,2,qualifie,1,oui,non,15056.395927278401
+> 200 Euro,21,critique,education,2319,< 100 Euro,< 1 annee,1.0,33.0,aucun,locataire,1,qualifie,1,oui,oui,5372.83267275622
+< 0 Euro,6,bon,auto,1374,inconnu,chomeur,3.0,75.0,aucun,proprietaire,1,management,1,oui,non,8032.33167807221
+1 - 200 Euro,18,critique,ameublement,3612,< 100 Euro,> 7 annees,4.0,37.0,aucun,proprietaire,1,qualifie,1,oui,non,14361.3331637297
+< 0 Euro,48,bon,auto,7763,< 100 Euro,> 7 annees,4.0,42.0,banque,autre,1,management,1,oui,oui,49303.091119526114
+> 200 Euro,18,bon,ameublement,3049,< 100 Euro,< 1 annee,1.0,45.0,magasin,proprietaire,1,non_qualifie,1,oui,non,3144.75136836251
+1 - 200 Euro,12,bon,ameublement,1534,< 100 Euro,< 1 annee,1.0,23.0,aucun,locataire,1,qualifie,1,oui,oui,1791.45497859201
+inconnu,24,pauvre,auto,2032,< 100 Euro,> 7 annees,4.0,60.0,aucun,autre,2,qualifie,1,oui,non,10837.158367519
+< 0 Euro,30,bon,ameublement,6350,inconnu,> 7 annees,4.0,31.0,aucun,proprietaire,1,qualifie,1,oui,oui,44305.3886367538
+> 200 Euro,18,bon,ameublement,2864,< 100 Euro,1 - 4 annees,1.0,34.0,aucun,proprietaire,1,non_qualifie,2,oui,oui,8013.229382554409
+inconnu,12,critique,auto,1255,< 100 Euro,> 7 annees,4.0,61.0,aucun,proprietaire,2,non_qualifie,1,oui,non,7186.821199533941
+< 0 Euro,24,pauvre,auto,1333,< 100 Euro,chomeur,2.0,43.0,aucun,autre,2,qualifie,2,oui,oui,7603.095234269241
+inconnu,24,critique,auto,2022,< 100 Euro,1 - 4 annees,4.0,37.0,aucun,proprietaire,1,qualifie,1,oui,non,12592.071357839499
+inconnu,24,bon,ameublement,1552,< 100 Euro,4 - 7 annees,1.0,32.0,banque,proprietaire,1,qualifie,2,oui,non,6392.1299589453
+< 0 Euro,12,tres bon,ameublement,626,< 100 Euro,1 - 4 annees,4.0,24.0,banque,proprietaire,1,non_qualifie,1,oui,oui,2983.94019966182
+inconnu,48,critique,auto,8858,inconnu,4 - 7 annees,1.0,35.0,aucun,autre,2,qualifie,1,oui,non,21440.592949134498
+inconnu,12,critique,renonvations,996,inconnu,4 - 7 annees,4.0,23.0,aucun,proprietaire,2,qualifie,1,oui,non,5167.61397087081
+inconnu,6,tres bon,ameublement,1750,500 - 1000 Euro,> 7 annees,4.0,45.0,banque,proprietaire,1,non_qualifie,2,oui,non,4886.7009480513
+< 0 Euro,48,bon,ameublement,6999,< 100 Euro,4 - 7 annees,1.0,34.0,aucun,proprietaire,2,qualifie,1,oui,oui,11247.603557006001
+1 - 200 Euro,12,critique,auto,1995,100 - 500 Euro,< 1 annee,1.0,27.0,aucun,proprietaire,1,qualifie,1,oui,non,10161.442381914201
+1 - 200 Euro,9,bon,education,1199,< 100 Euro,4 - 7 annees,4.0,67.0,aucun,proprietaire,2,management,1,oui,non,5648.960184067701
+1 - 200 Euro,12,bon,ameublement,1331,< 100 Euro,< 1 annee,1.0,22.0,magasin,proprietaire,1,qualifie,1,oui,oui,4761.39604537827
+1 - 200 Euro,18,parfait,auto,2278,100 - 500 Euro,< 1 annee,3.0,28.0,aucun,proprietaire,2,qualifie,1,oui,oui,7769.823804990799
+inconnu,21,parfait,auto,5003,inconnu,1 - 4 annees,4.0,29.0,banque,proprietaire,2,qualifie,1,oui,oui,5812.827381757529
+< 0 Euro,24,tres bon,ameublement,3552,< 100 Euro,4 - 7 annees,4.0,27.0,banque,proprietaire,1,qualifie,1,oui,oui,13622.1271522902
+1 - 200 Euro,18,critique,ameublement,1928,< 100 Euro,< 1 annee,2.0,31.0,aucun,proprietaire,2,non_qualifie,1,oui,oui,4442.46693756687
+< 0 Euro,24,bon,auto,2964,inconnu,> 7 annees,4.0,49.0,banque,autre,1,qualifie,2,oui,non,13326.717669802
+< 0 Euro,24,tres bon,ameublement,1546,< 100 Euro,4 - 7 annees,4.0,24.0,banque,locataire,1,non_qualifie,1,oui,oui,6296.51702470136
+> 200 Euro,6,pauvre,ameublement,683,< 100 Euro,< 1 annee,1.0,29.0,banque,proprietaire,1,qualifie,1,oui,non,2147.8664631932693
+1 - 200 Euro,36,bon,auto,12389,inconnu,1 - 4 annees,4.0,37.0,aucun,autre,1,qualifie,1,oui,oui,16901.6585611751
+1 - 200 Euro,24,pauvre,business,4712,inconnu,1 - 4 annees,2.0,37.0,banque,proprietaire,2,management,1,oui,non,24144.0697536923
+1 - 200 Euro,24,pauvre,ameublement,1553,100 - 500 Euro,4 - 7 annees,2.0,23.0,aucun,locataire,2,qualifie,1,oui,non,5194.64337196419
+< 0 Euro,12,bon,auto,1372,< 100 Euro,4 - 7 annees,3.0,36.0,aucun,proprietaire,1,qualifie,1,oui,oui,4050.1914680952295
+inconnu,24,critique,ameublement,2578,> 1000 Euro,> 7 annees,2.0,34.0,aucun,proprietaire,1,qualifie,1,oui,non,8669.31014765587
+1 - 200 Euro,48,bon,ameublement,3979,inconnu,4 - 7 annees,1.0,41.0,aucun,proprietaire,2,qualifie,2,oui,non,17658.8656501683
+< 0 Euro,48,bon,ameublement,6758,< 100 Euro,1 - 4 annees,2.0,31.0,aucun,proprietaire,1,qualifie,1,oui,oui,32214.1042617584
+< 0 Euro,24,bon,ameublement,3234,< 100 Euro,< 1 annee,4.0,23.0,aucun,locataire,1,non_qualifie,1,oui,oui,14054.736579741299
+inconnu,30,critique,ameublement,5954,< 100 Euro,4 - 7 annees,2.0,38.0,aucun,proprietaire,1,qualifie,1,oui,non,18037.434638348
+inconnu,24,bon,auto,5433,inconnu,chomeur,4.0,26.0,aucun,locataire,1,management,1,oui,non,17290.617438596
+< 0 Euro,15,bon,business,806,< 100 Euro,1 - 4 annees,4.0,22.0,aucun,proprietaire,1,non_qualifie,1,oui,non,5269.69722879687
+1 - 200 Euro,9,bon,ameublement,1082,< 100 Euro,> 7 annees,4.0,27.0,aucun,proprietaire,2,non_qualifie,1,oui,non,6565.87294527276
+inconnu,15,critique,ameublement,2788,< 100 Euro,4 - 7 annees,3.0,24.0,banque,proprietaire,2,qualifie,1,oui,non,6599.53402083959
+1 - 200 Euro,12,bon,ameublement,2930,< 100 Euro,4 - 7 annees,1.0,27.0,aucun,proprietaire,1,qualifie,1,oui,non,7717.93794308862
+inconnu,24,critique,education,1927,inconnu,1 - 4 annees,2.0,33.0,aucun,proprietaire,2,qualifie,1,oui,non,9922.03070782861
+1 - 200 Euro,36,critique,auto,2820,< 100 Euro,< 1 annee,4.0,27.0,aucun,proprietaire,2,qualifie,1,oui,oui,19392.1295170473
+inconnu,24,bon,education,937,< 100 Euro,< 1 annee,3.0,27.0,aucun,proprietaire,2,non_qualifie,1,oui,non,4671.7918891218
+1 - 200 Euro,18,critique,auto,1056,< 100 Euro,> 7 annees,3.0,30.0,banque,proprietaire,2,qualifie,1,oui,oui,5189.12922810853
+1 - 200 Euro,12,critique,auto,3124,< 100 Euro,< 1 annee,3.0,49.0,banque,proprietaire,2,non_qualifie,2,oui,non,3921.3583729554603
+inconnu,9,bon,ameublement,1388,< 100 Euro,1 - 4 annees,2.0,26.0,aucun,locataire,1,qualifie,1,oui,non,8509.92202338563
+1 - 200 Euro,36,bon,renonvations,2384,< 100 Euro,< 1 annee,1.0,33.0,aucun,locataire,1,non_qualifie,1,oui,oui,13957.6800993673
+inconnu,12,bon,auto,2133,inconnu,> 7 annees,4.0,52.0,aucun,autre,1,management,1,oui,non,12967.279756343702
+< 0 Euro,18,bon,ameublement,2039,< 100 Euro,1 - 4 annees,4.0,20.0,banque,locataire,1,qualifie,1,oui,oui,2608.75582173453
+< 0 Euro,9,critique,auto,2799,< 100 Euro,1 - 4 annees,2.0,36.0,aucun,locataire,2,qualifie,2,oui,non,6961.9807033155
+< 0 Euro,12,bon,ameublement,1289,< 100 Euro,1 - 4 annees,1.0,21.0,aucun,proprietaire,1,non_qualifie,1,oui,non,5895.0732504626
+< 0 Euro,18,bon,ameublement,1217,< 100 Euro,1 - 4 annees,3.0,47.0,aucun,proprietaire,1,non_qualifie,1,oui,oui,7768.100592014971
+< 0 Euro,12,critique,ameublement,2246,< 100 Euro,> 7 annees,3.0,60.0,aucun,proprietaire,2,qualifie,1,oui,oui,7961.796794677791
+< 0 Euro,12,critique,ameublement,385,< 100 Euro,4 - 7 annees,3.0,58.0,aucun,proprietaire,4,non_qualifie,1,oui,non,1789.6750745514105
+1 - 200 Euro,6,bon,ameublement,368,inconnu,> 7 annees,4.0,38.0,aucun,proprietaire,1,qualifie,1,oui,non,2562.9044098558998
+1 - 200 Euro,24,pauvre,auto,1965,inconnu,1 - 4 annees,4.0,42.0,aucun,locataire,2,qualifie,1,oui,non,13949.8398634007
+inconnu,21,bon,business,1572,> 1000 Euro,> 7 annees,4.0,36.0,banque,proprietaire,1,non_qualifie,1,oui,non,9867.499624550721
+1 - 200 Euro,24,bon,auto,2718,< 100 Euro,1 - 4 annees,4.0,20.0,aucun,locataire,1,non_qualifie,1,oui,oui,11451.1722808363
+< 0 Euro,24,tres bon,auto0,1358,inconnu,> 7 annees,3.0,40.0,magasin,proprietaire,1,management,1,oui,oui,8319.92322386412
+1 - 200 Euro,6,tres bon,auto,931,100 - 500 Euro,< 1 annee,1.0,32.0,magasin,proprietaire,1,non_qualifie,1,oui,oui,1198.30393592657
+< 0 Euro,24,bon,auto,1442,< 100 Euro,4 - 7 annees,4.0,23.0,aucun,locataire,2,qualifie,1,oui,oui,8679.07663063802
+1 - 200 Euro,24,parfait,business,4241,< 100 Euro,1 - 4 annees,4.0,36.0,aucun,proprietaire,3,non_qualifie,1,oui,oui,7406.7782577034095
+inconnu,18,critique,auto,2775,< 100 Euro,4 - 7 annees,2.0,31.0,banque,proprietaire,2,qualifie,1,oui,oui,8250.03070618649
+inconnu,24,pauvre,business,3863,< 100 Euro,1 - 4 annees,2.0,32.0,aucun,autre,1,qualifie,1,oui,non,5654.47708772663
+1 - 200 Euro,7,bon,ameublement,2329,< 100 Euro,< 1 annee,1.0,45.0,aucun,proprietaire,1,qualifie,1,oui,non,3720.6743935225404
+1 - 200 Euro,9,bon,ameublement,918,< 100 Euro,1 - 4 annees,1.0,30.0,aucun,proprietaire,1,qualifie,1,oui,oui,5655.990056111489
+1 - 200 Euro,24,tres bon,education,1837,< 100 Euro,4 - 7 annees,4.0,34.0,banque,autre,1,non_qualifie,1,oui,oui,8177.12006729391
+inconnu,36,bon,ameublement,3349,< 100 Euro,1 - 4 annees,2.0,28.0,aucun,proprietaire,1,management,1,oui,oui,18322.5274284187
+> 200 Euro,10,bon,ameublement,1275,< 100 Euro,< 1 annee,2.0,23.0,aucun,proprietaire,1,qualifie,1,oui,non,5858.62376650698
+< 0 Euro,24,tres bon,ameublement,2828,500 - 1000 Euro,1 - 4 annees,4.0,22.0,magasin,proprietaire,1,qualifie,1,oui,non,14178.8216420143
+inconnu,24,critique,business,4526,< 100 Euro,1 - 4 annees,2.0,74.0,aucun,proprietaire,1,management,1,oui,non,19142.5526768928
+1 - 200 Euro,36,bon,ameublement,2671,100 - 500 Euro,1 - 4 annees,4.0,50.0,aucun,autre,1,qualifie,1,oui,oui,12838.9685764995
+inconnu,18,bon,ameublement,2051,< 100 Euro,< 1 annee,1.0,33.0,aucun,proprietaire,1,qualifie,1,oui,non,12317.641602373602
+inconnu,15,bon,auto,1300,inconnu,> 7 annees,4.0,45.0,banque,autre,1,qualifie,2,oui,non,9264.53416460955
+< 0 Euro,12,bon,ameublement,741,100 - 500 Euro,chomeur,3.0,22.0,aucun,proprietaire,1,qualifie,1,oui,oui,4617.80128275136
+> 200 Euro,10,bon,auto,1240,100 - 500 Euro,> 7 annees,4.0,48.0,aucun,autre,1,non_qualifie,2,oui,oui,1929.36159572186
+< 0 Euro,21,bon,ameublement,3357,> 1000 Euro,< 1 annee,2.0,29.0,banque,proprietaire,1,qualifie,1,oui,non,15167.1330288669
+< 0 Euro,24,tres bon,auto,3632,< 100 Euro,1 - 4 annees,4.0,22.0,banque,locataire,1,qualifie,1,oui,non,5813.62000998331
+inconnu,18,pauvre,ameublement,1808,< 100 Euro,4 - 7 annees,1.0,22.0,aucun,proprietaire,1,qualifie,1,oui,oui,8028.4792139032
+1 - 200 Euro,48,parfait,business,12204,inconnu,1 - 4 annees,2.0,48.0,banque,proprietaire,1,management,1,oui,non,36380.6920271483
+1 - 200 Euro,60,pauvre,ameublement,9157,inconnu,1 - 4 annees,2.0,27.0,aucun,autre,1,management,1,oui,non,23356.8121542831
+< 0 Euro,6,critique,auto,3676,< 100 Euro,1 - 4 annees,3.0,37.0,aucun,locataire,3,qualifie,2,oui,non,4764.87703133136
+1 - 200 Euro,30,bon,ameublement,3441,100 - 500 Euro,1 - 4 annees,4.0,21.0,aucun,locataire,1,qualifie,1,oui,oui,9762.39553592883
+inconnu,12,bon,auto,640,< 100 Euro,1 - 4 annees,2.0,49.0,aucun,proprietaire,1,non_qualifie,1,oui,non,3098.34225364323
+1 - 200 Euro,21,critique,business,3652,< 100 Euro,4 - 7 annees,3.0,27.0,aucun,proprietaire,2,qualifie,1,oui,non,7545.444184591509
+inconnu,18,critique,auto,1530,< 100 Euro,1 - 4 annees,2.0,32.0,banque,proprietaire,2,qualifie,1,oui,oui,6403.282310275898
+inconnu,48,bon,business,3914,inconnu,1 - 4 annees,2.0,38.0,banque,proprietaire,1,qualifie,1,oui,oui,17535.211099532
+< 0 Euro,12,bon,ameublement,1858,< 100 Euro,< 1 annee,1.0,22.0,aucun,locataire,1,qualifie,1,oui,non,9416.55363557399
+< 0 Euro,18,bon,ameublement,2600,< 100 Euro,1 - 4 annees,4.0,65.0,aucun,autre,2,qualifie,1,oui,oui,17411.156236373798
+inconnu,15,bon,ameublement,1979,inconnu,> 7 annees,2.0,35.0,aucun,proprietaire,1,qualifie,1,oui,non,11602.7013135765
+> 200 Euro,6,bon,ameublement,2116,< 100 Euro,1 - 4 annees,2.0,41.0,aucun,proprietaire,1,qualifie,1,oui,non,4871.50466516904
+1 - 200 Euro,9,tres bon,auto,1437,100 - 500 Euro,4 - 7 annees,3.0,29.0,aucun,proprietaire,1,qualifie,1,oui,oui,4398.271097672029
+inconnu,42,critique,ameublement,4042,500 - 1000 Euro,1 - 4 annees,4.0,36.0,aucun,proprietaire,2,qualifie,1,oui,non,27765.1007533692
+inconnu,9,bon,education,3832,inconnu,> 7 annees,4.0,64.0,aucun,proprietaire,1,non_qualifie,1,oui,non,4648.6665610173495
+< 0 Euro,24,bon,ameublement,3660,< 100 Euro,1 - 4 annees,4.0,28.0,aucun,proprietaire,1,qualifie,1,oui,non,9243.9029828027
+< 0 Euro,18,tres bon,ameublement,1553,< 100 Euro,1 - 4 annees,3.0,44.0,banque,proprietaire,1,qualifie,1,oui,oui,9143.380224362529
+1 - 200 Euro,15,bon,ameublement,1444,inconnu,< 1 annee,1.0,23.0,aucun,proprietaire,1,qualifie,1,oui,non,7502.168732995329
+inconnu,9,bon,ameublement,1980,< 100 Euro,< 1 annee,2.0,19.0,aucun,locataire,2,qualifie,1,oui,oui,6304.003279878679
+1 - 200 Euro,24,bon,auto,1355,< 100 Euro,< 1 annee,4.0,25.0,aucun,proprietaire,1,non_qualifie,1,oui,oui,4807.1997476366905
+inconnu,12,bon,education,1393,< 100 Euro,> 7 annees,4.0,47.0,banque,proprietaire,3,qualifie,2,oui,non,5852.67893722671
+inconnu,24,bon,ameublement,1376,500 - 1000 Euro,4 - 7 annees,1.0,28.0,aucun,proprietaire,1,qualifie,1,oui,non,8029.16922157617
+inconnu,60,pauvre,ameublement,15653,< 100 Euro,4 - 7 annees,4.0,21.0,aucun,proprietaire,2,qualifie,1,oui,non,42932.4027037788
+inconnu,12,bon,ameublement,1493,< 100 Euro,< 1 annee,3.0,34.0,aucun,proprietaire,1,qualifie,2,oui,non,6916.907893099929
+< 0 Euro,42,pauvre,ameublement,4370,< 100 Euro,4 - 7 annees,2.0,26.0,banque,proprietaire,2,qualifie,2,oui,oui,19645.4979752961
+< 0 Euro,18,bon,education,750,< 100 Euro,chomeur,1.0,27.0,aucun,proprietaire,1,chomeur,1,oui,oui,3446.298298081189
+1 - 200 Euro,15,bon,renonvations,1308,< 100 Euro,> 7 annees,4.0,38.0,aucun,proprietaire,2,non_qualifie,1,oui,non,8358.949907681359
+inconnu,15,bon,education,4623,100 - 500 Euro,1 - 4 annees,2.0,40.0,aucun,proprietaire,1,management,1,oui,oui,18224.238287233602
+inconnu,24,critique,ameublement,1851,< 100 Euro,4 - 7 annees,2.0,33.0,aucun,proprietaire,2,qualifie,1,oui,non,10273.0627401688
+< 0 Euro,18,critique,ameublement,1880,< 100 Euro,4 - 7 annees,1.0,32.0,aucun,proprietaire,2,management,1,oui,non,8664.69108299555
+inconnu,36,pauvre,business,7980,inconnu,< 1 annee,4.0,27.0,aucun,locataire,2,qualifie,1,oui,oui,45159.939997401794
+< 0 Euro,30,parfait,ameublement,4583,< 100 Euro,1 - 4 annees,2.0,32.0,aucun,proprietaire,2,qualifie,1,oui,non,11446.668220413501
+inconnu,12,bon,auto,1386,500 - 1000 Euro,1 - 4 annees,2.0,26.0,aucun,proprietaire,1,qualifie,1,oui,oui,4806.83587280969
+> 200 Euro,24,bon,auto,947,< 100 Euro,4 - 7 annees,3.0,38.0,banque,autre,1,qualifie,2,oui,oui,4648.48735074825
+< 0 Euro,12,bon,education,684,< 100 Euro,1 - 4 annees,4.0,40.0,aucun,locataire,1,non_qualifie,2,oui,oui,2811.3654982438106
+< 0 Euro,48,bon,education,7476,< 100 Euro,4 - 7 annees,1.0,50.0,aucun,autre,1,management,1,oui,non,31911.4255890731
+1 - 200 Euro,12,bon,ameublement,1922,< 100 Euro,1 - 4 annees,2.0,37.0,aucun,proprietaire,1,non_qualifie,1,oui,oui,12805.904661556298
+< 0 Euro,24,bon,auto,2303,< 100 Euro,> 7 annees,1.0,45.0,aucun,proprietaire,1,qualifie,1,oui,oui,15776.1817549972
+1 - 200 Euro,36,pauvre,auto,8086,100 - 500 Euro,> 7 annees,4.0,42.0,aucun,proprietaire,4,management,1,oui,oui,28406.560218847597
+inconnu,24,critique,auto,2346,< 100 Euro,4 - 7 annees,3.0,35.0,aucun,proprietaire,2,qualifie,1,oui,non,10411.7523758762
+< 0 Euro,14,bon,auto,3973,< 100 Euro,chomeur,4.0,22.0,aucun,autre,1,qualifie,1,oui,non,4216.98456885481
+1 - 200 Euro,12,bon,auto,888,< 100 Euro,> 7 annees,4.0,41.0,banque,proprietaire,1,non_qualifie,2,oui,oui,4111.3885993487
+inconnu,48,bon,ameublement,10222,inconnu,4 - 7 annees,3.0,37.0,magasin,proprietaire,1,qualifie,1,oui,non,45199.7387180833
+1 - 200 Euro,30,parfait,business,4221,< 100 Euro,1 - 4 annees,1.0,28.0,aucun,proprietaire,2,qualifie,1,oui,non,9824.712991124692
+1 - 200 Euro,18,critique,ameublement,6361,< 100 Euro,> 7 annees,1.0,41.0,aucun,proprietaire,1,qualifie,1,oui,non,19892.8457182527
+> 200 Euro,12,bon,ameublement,1297,< 100 Euro,1 - 4 annees,4.0,23.0,aucun,locataire,1,qualifie,1,oui,non,5903.63643513726
+< 0 Euro,12,bon,auto,900,inconnu,1 - 4 annees,2.0,23.0,aucun,proprietaire,1,qualifie,1,oui,oui,5338.551566402511
+inconnu,21,bon,ameublement,2241,< 100 Euro,> 7 annees,2.0,50.0,aucun,proprietaire,2,qualifie,1,oui,non,12547.7041753738
+1 - 200 Euro,6,pauvre,ameublement,1050,< 100 Euro,chomeur,1.0,35.0,magasin,proprietaire,2,management,1,oui,non,5273.874675130271
+> 200 Euro,6,critique,education,1047,< 100 Euro,1 - 4 annees,4.0,50.0,aucun,proprietaire,1,non_qualifie,1,oui,non,3712.7118701358004
+inconnu,24,critique,auto0,6314,< 100 Euro,chomeur,2.0,27.0,banque,proprietaire,2,management,1,oui,non,36665.7010252119
+1 - 200 Euro,30,tres bon,ameublement,3496,> 1000 Euro,1 - 4 annees,2.0,34.0,magasin,proprietaire,1,qualifie,2,oui,non,21571.895339450803
+inconnu,48,tres bon,business,3609,< 100 Euro,1 - 4 annees,1.0,27.0,magasin,proprietaire,1,qualifie,1,oui,non,5255.23392716222
+< 0 Euro,12,critique,auto,4843,< 100 Euro,> 7 annees,4.0,43.0,aucun,locataire,2,qualifie,1,oui,oui,17236.831792576202
+> 200 Euro,30,critique,ameublement,3017,< 100 Euro,> 7 annees,4.0,47.0,aucun,proprietaire,1,qualifie,1,oui,non,12825.096577836799
+inconnu,24,critique,business,4139,100 - 500 Euro,1 - 4 annees,3.0,27.0,aucun,proprietaire,2,non_qualifie,1,oui,non,13718.1273302804
+inconnu,36,bon,business,5742,100 - 500 Euro,4 - 7 annees,2.0,31.0,aucun,proprietaire,2,qualifie,1,oui,non,18315.7603554645
+inconnu,60,bon,auto,10366,< 100 Euro,> 7 annees,4.0,42.0,aucun,proprietaire,1,management,1,oui,non,32965.6278313104
+inconnu,6,critique,auto,2080,500 - 1000 Euro,1 - 4 annees,2.0,24.0,aucun,proprietaire,1,qualifie,1,oui,non,3359.08104281847
+inconnu,21,pauvre,business,2580,500 - 1000 Euro,< 1 annee,2.0,41.0,banque,proprietaire,1,non_qualifie,2,oui,oui,13980.4052140715
+inconnu,30,critique,ameublement,4530,< 100 Euro,4 - 7 annees,4.0,26.0,aucun,locataire,1,management,1,oui,non,27437.4635769158
+inconnu,24,critique,ameublement,5150,< 100 Euro,> 7 annees,4.0,33.0,aucun,proprietaire,1,qualifie,1,oui,non,34133.7828576084
+1 - 200 Euro,72,bon,ameublement,5595,100 - 500 Euro,1 - 4 annees,2.0,24.0,aucun,proprietaire,1,qualifie,1,oui,oui,12922.0238930008
+< 0 Euro,24,bon,ameublement,2384,< 100 Euro,> 7 annees,4.0,64.0,banque,locataire,1,non_qualifie,1,oui,non,15587.2753970895
+inconnu,18,bon,ameublement,1453,< 100 Euro,< 1 annee,1.0,26.0,aucun,proprietaire,1,qualifie,1,oui,non,5652.40412335818
+inconnu,6,bon,education,1538,< 100 Euro,< 1 annee,2.0,56.0,aucun,proprietaire,1,qualifie,1,oui,non,2689.13256961262
+inconnu,12,bon,ameublement,2279,inconnu,1 - 4 annees,4.0,37.0,aucun,autre,1,qualifie,1,oui,non,16282.5927322544
+inconnu,15,pauvre,ameublement,1478,< 100 Euro,1 - 4 annees,3.0,33.0,banque,proprietaire,2,qualifie,1,oui,non,6114.284520370239
+inconnu,24,critique,ameublement,5103,< 100 Euro,< 1 annee,3.0,47.0,aucun,autre,3,qualifie,1,oui,non,17198.2542544264
+1 - 200 Euro,36,pauvre,business,9857,100 - 500 Euro,4 - 7 annees,3.0,31.0,aucun,proprietaire,2,non_qualifie,2,oui,non,17733.1268493773
+inconnu,60,bon,auto,6527,inconnu,1 - 4 annees,4.0,34.0,aucun,autre,1,qualifie,2,oui,non,33627.897297379
+> 200 Euro,10,critique,ameublement,1347,inconnu,4 - 7 annees,2.0,27.0,aucun,proprietaire,2,qualifie,1,oui,non,5848.86311017612
+1 - 200 Euro,36,pauvre,auto,2862,100 - 500 Euro,> 7 annees,3.0,30.0,aucun,autre,1,qualifie,1,oui,non,17645.3949106425
+inconnu,9,bon,ameublement,2753,100 - 500 Euro,> 7 annees,4.0,35.0,aucun,proprietaire,1,qualifie,1,oui,non,12096.7723233122
+< 0 Euro,12,bon,auto,3651,> 1000 Euro,1 - 4 annees,3.0,31.0,aucun,proprietaire,1,qualifie,2,oui,non,3971.3676002746997
+< 0 Euro,15,critique,ameublement,975,< 100 Euro,1 - 4 annees,3.0,25.0,aucun,proprietaire,2,qualifie,1,oui,non,2989.3061733525
+1 - 200 Euro,15,bon,renonvations,2631,100 - 500 Euro,1 - 4 annees,2.0,25.0,aucun,proprietaire,1,non_qualifie,1,oui,non,13103.4658371645
+1 - 200 Euro,24,bon,ameublement,2896,100 - 500 Euro,< 1 annee,1.0,29.0,aucun,proprietaire,1,qualifie,1,oui,non,8723.928112754471
+< 0 Euro,6,critique,auto,4716,inconnu,< 1 annee,3.0,44.0,aucun,proprietaire,2,non_qualifie,2,oui,non,5156.08457419662
+inconnu,24,bon,ameublement,2284,< 100 Euro,4 - 7 annees,2.0,28.0,aucun,proprietaire,1,qualifie,1,oui,non,12851.61692841
+inconnu,6,bon,auto,1236,500 - 1000 Euro,1 - 4 annees,4.0,50.0,aucun,locataire,1,qualifie,1,oui,non,3599.5509425193
+1 - 200 Euro,12,bon,ameublement,1103,< 100 Euro,4 - 7 annees,3.0,29.0,aucun,proprietaire,2,qualifie,1,oui,non,7550.572702768
+inconnu,12,critique,auto,926,< 100 Euro,chomeur,2.0,38.0,aucun,proprietaire,1,chomeur,1,oui,non,947.169863161965
+inconnu,18,critique,ameublement,1800,< 100 Euro,1 - 4 annees,2.0,24.0,aucun,proprietaire,2,qualifie,1,oui,non,8908.91298745646
+1 - 200 Euro,18,pauvre,auto,6300,< 100 Euro,> 7 annees,,42.0,aucun,autre,1,qualifie,1,oui,oui,31068.0293787902
+> 200 Euro,15,bon,education,1905,< 100 Euro,> 7 annees,4.0,40.0,aucun,locataire,1,management,1,oui,non,12261.3718912348
+< 0 Euro,15,critique,ameublement,975,< 100 Euro,1 - 4 annees,3.0,25.0,aucun,proprietaire,2,qualifie,1,oui,non,2740.44332009622
+inconnu,12,bon,ameublement,1123,500 - 1000 Euro,1 - 4 annees,4.0,29.0,aucun,locataire,1,non_qualifie,1,oui,oui,5112.25666608149
+< 0 Euro,48,critique,auto,6331,< 100 Euro,> 7 annees,4.0,46.0,aucun,autre,2,qualifie,1,oui,oui,27215.6340852806
+> 200 Euro,24,bon,ameublement,1377,100 - 500 Euro,> 7 annees,2.0,47.0,aucun,autre,1,qualifie,1,oui,non,7451.355284633441
+1 - 200 Euro,30,pauvre,business,2503,100 - 500 Euro,> 7 annees,2.0,41.0,magasin,proprietaire,2,qualifie,1,oui,non,12555.643306235801
+1 - 200 Euro,27,bon,business,2528,< 100 Euro,< 1 annee,1.0,32.0,aucun,proprietaire,1,qualifie,2,oui,non,13510.600744843701
+inconnu,15,bon,auto,5324,500 - 1000 Euro,> 7 annees,4.0,35.0,aucun,autre,1,qualifie,1,oui,non,6981.29968088935
+1 - 200 Euro,48,bon,auto,6560,100 - 500 Euro,4 - 7 annees,2.0,24.0,aucun,proprietaire,1,qualifie,1,oui,oui,35300.6046626417
+1 - 200 Euro,12,parfait,ameublement,2969,< 100 Euro,< 1 annee,3.0,25.0,aucun,locataire,2,qualifie,1,oui,oui,15884.1659426792
+1 - 200 Euro,9,bon,ameublement,1206,< 100 Euro,> 7 annees,4.0,25.0,aucun,proprietaire,1,qualifie,1,oui,non,7715.70452341524
+< 0 Euro,15,critique,ameublement,975,< 100 Euro,1 - 4 annees,3.0,25.0,aucun,proprietaire,2,qualifie,1,oui,non,2685.5972155467803
+1 - 200 Euro,9,bon,ameublement,2118,< 100 Euro,1 - 4 annees,2.0,37.0,aucun,proprietaire,1,non_qualifie,2,oui,non,6438.09665689099
+inconnu,18,critique,ameublement,629,500 - 1000 Euro,> 7 annees,3.0,32.0,banque,proprietaire,2,management,1,oui,non,4122.30794871352
+< 0 Euro,6,tres bon,education,1198,< 100 Euro,> 7 annees,4.0,35.0,aucun,autre,1,qualifie,1,oui,oui,5849.532768841321
+inconnu,21,bon,auto,2476,inconnu,> 7 annees,4.0,46.0,aucun,proprietaire,1,management,1,oui,non,15637.463310278301
+< 0 Euro,9,critique,ameublement,1138,< 100 Euro,1 - 4 annees,4.0,25.0,aucun,proprietaire,2,non_qualifie,1,oui,non,8077.319413261179
+1 - 200 Euro,60,bon,auto,14027,< 100 Euro,4 - 7 annees,2.0,27.0,aucun,proprietaire,1,management,1,oui,oui,64666.285419168205
+inconnu,30,critique,auto,7596,inconnu,> 7 annees,4.0,63.0,aucun,proprietaire,2,qualifie,1,oui,non,10615.1624493631
+inconnu,30,critique,ameublement,3077,inconnu,> 7 annees,2.0,40.0,aucun,proprietaire,2,qualifie,2,oui,non,10146.992721655799
+inconnu,18,bon,ameublement,1505,< 100 Euro,1 - 4 annees,2.0,32.0,aucun,autre,1,management,1,oui,non,7830.62653471021
+< 0 Euro,15,critique,ameublement,975,< 100 Euro,1 - 4 annees,3.0,25.0,aucun,proprietaire,2,qualifie,1,oui,non,3196.6414730970696
+> 200 Euro,24,critique,ameublement,3148,inconnu,1 - 4 annees,2.0,31.0,aucun,proprietaire,2,qualifie,1,oui,non,16946.706953343302
+1 - 200 Euro,20,parfait,auto,6148,100 - 500 Euro,> 7 annees,4.0,31.0,banque,proprietaire,2,qualifie,1,oui,non,25591.1734657713
+> 200 Euro,9,parfait,ameublement,1337,< 100 Euro,< 1 annee,2.0,34.0,aucun,proprietaire,2,management,1,oui,oui,9257.684182749681
+1 - 200 Euro,6,tres bon,education,433,> 1000 Euro,< 1 annee,2.0,24.0,banque,locataire,1,qualifie,2,oui,oui,1744.4412029244595
+< 0 Euro,12,bon,auto,1228,< 100 Euro,1 - 4 annees,2.0,24.0,aucun,proprietaire,1,non_qualifie,1,oui,oui,8570.281423732471
+1 - 200 Euro,9,bon,ameublement,790,500 - 1000 Euro,1 - 4 annees,3.0,66.0,aucun,proprietaire,1,non_qualifie,1,oui,non,3791.846414976271
+inconnu,27,bon,auto,2570,< 100 Euro,1 - 4 annees,3.0,21.0,aucun,locataire,1,qualifie,1,oui,oui,8410.019011218921
+inconnu,6,critique,auto,250,> 1000 Euro,1 - 4 annees,2.0,41.0,banque,proprietaire,2,non_qualifie,1,oui,non,734.476054264911
+inconnu,15,critique,ameublement,1316,500 - 1000 Euro,1 - 4 annees,2.0,47.0,aucun,proprietaire,2,non_qualifie,1,oui,non,4017.030487019721
+< 0 Euro,15,critique,ameublement,975,< 100 Euro,1 - 4 annees,3.0,25.0,aucun,proprietaire,2,qualifie,1,oui,non,3090.7786398861
+< 0 Euro,18,bon,ameublement,1882,< 100 Euro,1 - 4 annees,4.0,25.0,banque,locataire,2,qualifie,1,oui,oui,7585.03386020893
+1 - 200 Euro,48,tres bon,business,6416,< 100 Euro,> 7 annees,3.0,59.0,aucun,locataire,1,qualifie,1,oui,oui,42773.6807281288
+> 200 Euro,24,critique,business,1275,> 1000 Euro,1 - 4 annees,4.0,36.0,aucun,proprietaire,2,qualifie,1,oui,non,3213.44572772825
+1 - 200 Euro,24,pauvre,ameublement,6403,< 100 Euro,< 1 annee,2.0,33.0,aucun,proprietaire,1,qualifie,1,oui,non,7235.25602867517
+< 0 Euro,24,bon,ameublement,1987,< 100 Euro,1 - 4 annees,4.0,21.0,aucun,locataire,1,non_qualifie,2,oui,oui,5272.04930420953
+1 - 200 Euro,8,bon,ameublement,760,< 100 Euro,4 - 7 annees,2.0,44.0,aucun,proprietaire,1,non_qualifie,1,oui,non,5196.40695935241
+inconnu,24,bon,auto,2603,> 1000 Euro,1 - 4 annees,4.0,28.0,aucun,locataire,1,qualifie,1,oui,non,6319.54504537401
+inconnu,4,critique,auto,3380,< 100 Euro,4 - 7 annees,1.0,37.0,aucun,proprietaire,1,qualifie,2,oui,non,4654.38037092937
+1 - 200 Euro,36,tres bon,ameublement,3990,inconnu,< 1 annee,2.0,29.0,banque,proprietaire,1,chomeur,1,oui,non,21340.2669067756
+1 - 200 Euro,24,bon,auto,11560,< 100 Euro,1 - 4 annees,4.0,23.0,aucun,locataire,2,management,1,oui,oui,13181.088609424
+< 0 Euro,15,critique,ameublement,975,< 100 Euro,1 - 4 annees,3.0,25.0,aucun,proprietaire,2,qualifie,1,oui,non,2707.67899184582
+< 0 Euro,18,bon,auto,4380,100 - 500 Euro,1 - 4 annees,4.0,35.0,aucun,proprietaire,1,non_qualifie,2,oui,non,19710.4511262199
+inconnu,6,critique,auto,6761,< 100 Euro,4 - 7 annees,3.0,45.0,aucun,proprietaire,2,management,2,oui,non,7112.60247352542
+1 - 200 Euro,30,parfait,business,4280,100 - 500 Euro,1 - 4 annees,4.0,26.0,aucun,locataire,2,non_qualifie,1,oui,oui,27900.2288782494
+< 0 Euro,24,tres bon,auto,2325,100 - 500 Euro,4 - 7 annees,3.0,32.0,banque,proprietaire,1,qualifie,1,oui,non,6172.258377074089
+1 - 200 Euro,10,tres bon,ameublement,1048,< 100 Euro,1 - 4 annees,4.0,23.0,magasin,proprietaire,1,non_qualifie,1,oui,non,4998.01713446502
+inconnu,21,bon,ameublement,3160,inconnu,> 7 annees,3.0,41.0,aucun,proprietaire,1,qualifie,1,oui,non,21159.257688314097
+< 0 Euro,24,tres bon,ameublement,2483,500 - 1000 Euro,1 - 4 annees,4.0,22.0,magasin,proprietaire,1,qualifie,1,oui,non,14538.0012079434
+< 0 Euro,39,critique,ameublement,14179,inconnu,4 - 7 annees,4.0,30.0,aucun,proprietaire,2,management,1,oui,non,73359.4322138298
+< 0 Euro,13,critique,business,1797,< 100 Euro,< 1 annee,1.0,28.0,banque,proprietaire,2,non_qualifie,1,oui,non,9680.186717514991
+< 0 Euro,15,bon,auto,2511,< 100 Euro,chomeur,4.0,23.0,aucun,locataire,1,qualifie,1,oui,non,3235.5750933671397
+< 0 Euro,12,bon,auto,1274,< 100 Euro,< 1 annee,1.0,37.0,aucun,proprietaire,1,non_qualifie,1,oui,oui,6737.683759486739
+inconnu,21,bon,auto,5248,inconnu,1 - 4 annees,3.0,26.0,aucun,proprietaire,1,qualifie,1,oui,non,5931.340081105
+inconnu,15,bon,auto,3029,< 100 Euro,4 - 7 annees,2.0,33.0,aucun,proprietaire,1,qualifie,1,oui,non,6539.88824149543
+< 0 Euro,6,bon,ameublement,428,< 100 Euro,> 7 annees,1.0,49.0,banque,proprietaire,1,qualifie,1,oui,non,1364.02375733936
+< 0 Euro,18,bon,auto,976,< 100 Euro,< 1 annee,2.0,23.0,aucun,proprietaire,1,non_qualifie,1,oui,oui,1062.83165412026
+1 - 200 Euro,12,bon,business,841,100 - 500 Euro,4 - 7 annees,4.0,23.0,aucun,locataire,1,non_qualifie,1,oui,non,2567.60686306769
+inconnu,30,critique,ameublement,5771,< 100 Euro,4 - 7 annees,2.0,25.0,aucun,proprietaire,2,qualifie,1,oui,non,40718.234729257405
+inconnu,12,pauvre,renonvations,1555,> 1000 Euro,> 7 annees,4.0,55.0,aucun,autre,2,qualifie,2,oui,oui,8627.8202526733
+< 0 Euro,24,bon,auto,1285,inconnu,4 - 7 annees,4.0,32.0,aucun,locataire,1,qualifie,1,oui,oui,9236.78206826795
+> 200 Euro,6,critique,auto,1299,< 100 Euro,1 - 4 annees,1.0,74.0,aucun,proprietaire,3,chomeur,2,oui,non,1801.3390791051502
+> 200 Euro,15,critique,ameublement,1271,inconnu,1 - 4 annees,4.0,39.0,aucun,autre,2,qualifie,1,oui,oui,4617.80258760409
+inconnu,24,bon,auto,1393,< 100 Euro,1 - 4 annees,2.0,31.0,aucun,proprietaire,1,qualifie,1,oui,non,4244.45891925605
+< 0 Euro,12,critique,auto,691,< 100 Euro,> 7 annees,3.0,35.0,aucun,proprietaire,2,qualifie,1,oui,oui,4147.54901684503
+inconnu,15,critique,auto,5045,inconnu,> 7 annees,4.0,59.0,aucun,proprietaire,1,qualifie,1,oui,non,7761.477843012321
+< 0 Euro,18,critique,ameublement,2124,< 100 Euro,1 - 4 annees,4.0,24.0,aucun,locataire,2,qualifie,1,oui,oui,13661.5007914503
+< 0 Euro,12,bon,ameublement,2214,< 100 Euro,1 - 4 annees,3.0,24.0,aucun,proprietaire,1,non_qualifie,1,oui,non,15340.4571122322
+inconnu,21,critique,auto,12680,inconnu,> 7 annees,4.0,30.0,aucun,autre,1,management,1,oui,oui,72547.566526817
+inconnu,24,critique,auto,2463,100 - 500 Euro,4 - 7 annees,3.0,27.0,aucun,proprietaire,2,qualifie,1,oui,non,13337.414294755601
+1 - 200 Euro,12,bon,ameublement,1155,< 100 Euro,> 7 annees,3.0,40.0,banque,proprietaire,2,non_qualifie,1,oui,non,3513.49843793493
+< 0 Euro,30,bon,ameublement,3108,< 100 Euro,< 1 annee,4.0,31.0,aucun,proprietaire,1,non_qualifie,1,oui,oui,7559.390806897421
+inconnu,10,bon,auto,2901,inconnu,< 1 annee,4.0,31.0,aucun,locataire,1,qualifie,1,oui,non,4595.84256142877
+1 - 200 Euro,12,critique,ameublement,3617,< 100 Euro,> 7 annees,4.0,28.0,aucun,locataire,3,qualifie,1,oui,non,4755.48671304603
+inconnu,12,critique,ameublement,1655,< 100 Euro,> 7 annees,4.0,63.0,aucun,proprietaire,2,non_qualifie,1,oui,non,5210.13370759134
+< 0 Euro,24,bon,auto,2812,inconnu,> 7 annees,4.0,26.0,aucun,locataire,1,qualifie,1,oui,non,7647.43808373453
+< 0 Euro,36,critique,education,8065,< 100 Euro,1 - 4 annees,2.0,25.0,aucun,proprietaire,2,management,1,oui,oui,28423.5072103963
+inconnu,21,critique,auto,3275,< 100 Euro,> 7 annees,4.0,36.0,aucun,proprietaire,1,management,1,oui,non,3466.78619242497
+inconnu,24,critique,ameublement,2223,100 - 500 Euro,> 7 annees,4.0,52.0,banque,proprietaire,2,qualifie,1,oui,non,14974.2353618579
+> 200 Euro,12,critique,auto,1480,500 - 1000 Euro,chomeur,4.0,66.0,banque,autre,3,chomeur,1,oui,non,4737.4671409086495
+< 0 Euro,24,bon,auto,1371,inconnu,1 - 4 annees,4.0,25.0,aucun,locataire,1,qualifie,1,oui,oui,9782.39568114555
+inconnu,36,critique,auto,3535,< 100 Euro,4 - 7 annees,4.0,37.0,aucun,proprietaire,2,qualifie,1,oui,non,19827.216442721103
+< 0 Euro,18,bon,ameublement,3509,< 100 Euro,4 - 7 annees,1.0,25.0,aucun,proprietaire,1,qualifie,1,oui,non,15668.263734285703
+inconnu,36,critique,auto,5711,> 1000 Euro,> 7 annees,2.0,38.0,aucun,proprietaire,2,management,1,oui,non,35756.3783195584
+1 - 200 Euro,18,bon,renonvations,3872,< 100 Euro,chomeur,4.0,67.0,aucun,proprietaire,1,qualifie,1,oui,non,8232.591329027671
+1 - 200 Euro,39,critique,ameublement,4933,< 100 Euro,4 - 7 annees,2.0,25.0,aucun,proprietaire,2,qualifie,1,oui,oui,14576.4333870977
+inconnu,24,critique,auto,1940,> 1000 Euro,> 7 annees,4.0,60.0,aucun,proprietaire,1,qualifie,1,oui,non,11194.362727521202
+1 - 200 Euro,12,parfait,education,1410,< 100 Euro,1 - 4 annees,2.0,31.0,aucun,proprietaire,1,non_qualifie,1,oui,non,3884.506494021429
+1 - 200 Euro,12,bon,auto,836,100 - 500 Euro,< 1 annee,2.0,23.0,banque,proprietaire,1,non_qualifie,1,oui,oui,5017.97577176735
+1 - 200 Euro,20,bon,auto,6468,inconnu,chomeur,4.0,60.0,aucun,proprietaire,1,management,1,oui,non,8606.3888661033
+1 - 200 Euro,18,bon,business,1941,> 1000 Euro,1 - 4 annees,2.0,35.0,aucun,proprietaire,1,non_qualifie,1,oui,non,13708.2794848306
+inconnu,22,bon,ameublement,2675,500 - 1000 Euro,> 7 annees,4.0,40.0,aucun,proprietaire,1,qualifie,1,oui,non,14342.817465953101
+inconnu,48,critique,auto,2751,inconnu,> 7 annees,3.0,38.0,aucun,proprietaire,2,qualifie,2,oui,non,14088.2622456606
+1 - 200 Euro,48,pauvre,education,6224,< 100 Euro,> 7 annees,4.0,50.0,aucun,autre,1,qualifie,1,oui,oui,31673.999801576407
+< 0 Euro,40,critique,education,5998,< 100 Euro,1 - 4 annees,3.0,27.0,banque,proprietaire,1,qualifie,1,oui,oui,39169.124439918
+1 - 200 Euro,21,bon,business,1188,< 100 Euro,> 7 annees,4.0,39.0,aucun,proprietaire,1,qualifie,2,oui,oui,4251.34622580774
+inconnu,24,bon,auto,6313,inconnu,> 7 annees,4.0,41.0,aucun,proprietaire,1,management,2,oui,non,30427.6998794879
+inconnu,6,critique,ameublement,1221,inconnu,1 - 4 annees,2.0,27.0,aucun,proprietaire,2,qualifie,1,oui,non,1719.41357936233
+> 200 Euro,24,bon,ameublement,2892,< 100 Euro,> 7 annees,4.0,51.0,aucun,autre,1,qualifie,1,oui,non,9144.76944571606
+inconnu,24,bon,ameublement,3062,500 - 1000 Euro,> 7 annees,3.0,32.0,aucun,locataire,1,qualifie,1,oui,non,18238.0566711235
+inconnu,9,bon,ameublement,2301,100 - 500 Euro,< 1 annee,4.0,22.0,aucun,locataire,1,qualifie,1,oui,non,7574.22957475049
+< 0 Euro,18,bon,auto,7511,inconnu,> 7 annees,4.0,51.0,aucun,autre,1,qualifie,2,oui,oui,7653.29376304501
+inconnu,12,critique,ameublement,1258,< 100 Euro,< 1 annee,4.0,22.0,aucun,locataire,2,non_qualifie,1,oui,non,2921.9340856975896
+inconnu,24,pauvre,auto,717,inconnu,> 7 annees,4.0,54.0,aucun,proprietaire,2,qualifie,1,oui,non,4201.125552609679
+1 - 200 Euro,9,bon,auto,1549,inconnu,< 1 annee,2.0,35.0,aucun,proprietaire,1,chomeur,1,oui,non,9981.83123201532
+inconnu,24,critique,education,1597,< 100 Euro,> 7 annees,4.0,54.0,aucun,autre,2,qualifie,2,oui,non,10670.161059151
+1 - 200 Euro,18,critique,ameublement,1795,< 100 Euro,> 7 annees,4.0,48.0,banque,locataire,2,non_qualifie,1,oui,non,7161.569804198392
+< 0 Euro,20,critique,ameublement,4272,< 100 Euro,> 7 annees,4.0,24.0,aucun,proprietaire,2,qualifie,1,oui,non,6371.29650881583
+inconnu,12,critique,ameublement,976,inconnu,> 7 annees,4.0,35.0,aucun,proprietaire,2,qualifie,1,oui,non,5475.9967773854
+1 - 200 Euro,12,bon,auto,7472,inconnu,chomeur,2.0,24.0,aucun,locataire,1,chomeur,1,oui,non,8465.74137600777
+< 0 Euro,36,bon,auto,9271,< 100 Euro,4 - 7 annees,1.0,24.0,aucun,proprietaire,1,qualifie,1,oui,oui,22950.3497036752
+1 - 200 Euro,6,bon,ameublement,590,< 100 Euro,< 1 annee,3.0,26.0,aucun,proprietaire,1,non_qualifie,1,oui,non,2726.42930352078
+inconnu,12,critique,ameublement,930,inconnu,> 7 annees,4.0,65.0,aucun,proprietaire,4,qualifie,1,oui,non,6546.863673103791
+1 - 200 Euro,42,tres bon,auto,9283,< 100 Euro,chomeur,2.0,55.0,banque,autre,1,management,1,oui,non,10193.8680431982
+1 - 200 Euro,15,parfait,auto,1778,< 100 Euro,< 1 annee,1.0,26.0,aucun,locataire,2,chomeur,1,oui,oui,5871.70950729006
+1 - 200 Euro,8,bon,business,907,< 100 Euro,< 1 annee,2.0,26.0,aucun,proprietaire,1,,1,oui,non,3070.5115969068293
+1 - 200 Euro,6,bon,ameublement,484,< 100 Euro,4 - 7 annees,3.0,28.0,banque,proprietaire,1,non_qualifie,1,oui,non,2534.2125322093398
+< 0 Euro,36,critique,auto,9629,< 100 Euro,4 - 7 annees,4.0,24.0,aucun,proprietaire,2,qualifie,1,oui,oui,60223.6425430523
+< 0 Euro,48,bon,ameublement,3051,< 100 Euro,1 - 4 annees,4.0,54.0,aucun,proprietaire,1,qualifie,1,oui,oui,14545.1637255981
+< 0 Euro,48,bon,auto,3931,< 100 Euro,4 - 7 annees,4.0,46.0,aucun,autre,1,qualifie,2,oui,oui,27560.9899193446
+1 - 200 Euro,36,pauvre,auto,7432,< 100 Euro,1 - 4 annees,2.0,54.0,aucun,locataire,1,qualifie,1,oui,non,20248.7011339926
+inconnu,6,bon,ameublement,1338,500 - 1000 Euro,1 - 4 annees,4.0,62.0,aucun,proprietaire,1,qualifie,1,oui,non,2320.14184878457
+inconnu,6,critique,ameublement,1554,< 100 Euro,4 - 7 annees,2.0,24.0,aucun,locataire,2,qualifie,1,oui,non,1589.9662091262396
+< 0 Euro,36,bon,auto0,15857,< 100 Euro,chomeur,3.0,43.0,aucun,proprietaire,1,management,1,oui,non,36240.9538481081
+< 0 Euro,18,bon,ameublement,1345,< 100 Euro,1 - 4 annees,3.0,26.0,banque,proprietaire,1,qualifie,1,oui,oui,8196.70653088698
+inconnu,12,bon,auto,1101,< 100 Euro,1 - 4 annees,2.0,27.0,aucun,proprietaire,2,qualifie,1,oui,non,3952.6401004985496
+> 200 Euro,12,bon,ameublement,3016,< 100 Euro,1 - 4 annees,1.0,24.0,aucun,proprietaire,1,qualifie,1,oui,non,12364.5224095088
+< 0 Euro,36,bon,ameublement,2712,< 100 Euro,> 7 annees,2.0,41.0,banque,proprietaire,1,qualifie,2,oui,oui,6604.727048419089
+< 0 Euro,8,critique,auto,731,< 100 Euro,> 7 annees,4.0,47.0,aucun,proprietaire,2,non_qualifie,1,oui,non,4486.42418114526
+inconnu,18,critique,ameublement,3780,< 100 Euro,< 1 annee,2.0,35.0,aucun,proprietaire,2,management,1,oui,non,18750.627962932198
+< 0 Euro,21,critique,auto,1602,< 100 Euro,> 7 annees,3.0,30.0,aucun,proprietaire,2,qualifie,1,oui,non,10837.2809525737
+< 0 Euro,18,critique,auto,3966,< 100 Euro,> 7 annees,4.0,33.0,banque,locataire,3,qualifie,1,oui,oui,4666.7405059421
+inconnu,18,parfait,business,4165,< 100 Euro,1 - 4 annees,2.0,36.0,magasin,proprietaire,2,qualifie,2,oui,oui,14947.2012148251
+< 0 Euro,36,bon,auto,8335,inconnu,> 7 annees,4.0,47.0,aucun,autre,1,qualifie,1,oui,oui,31654.5139836462
+1 - 200 Euro,48,pauvre,business,6681,inconnu,1 - 4 annees,4.0,38.0,aucun,autre,1,qualifie,2,oui,non,27184.043270814702
+inconnu,24,pauvre,business,2375,500 - 1000 Euro,1 - 4 annees,2.0,44.0,aucun,proprietaire,2,qualifie,2,oui,non,12123.9151478908
+< 0 Euro,18,bon,auto,1216,< 100 Euro,< 1 annee,3.0,23.0,aucun,locataire,1,qualifie,1,oui,oui,8376.49068926708
+< 0 Euro,45,parfait,business,11816,< 100 Euro,> 7 annees,4.0,29.0,aucun,locataire,2,qualifie,1,oui,oui,25036.5679602941
+1 - 200 Euro,24,bon,ameublement,5084,inconnu,> 7 annees,4.0,42.0,aucun,proprietaire,1,qualifie,1,oui,non,16107.370476708602
+> 200 Euro,15,bon,ameublement,2327,< 100 Euro,< 1 annee,3.0,25.0,aucun,proprietaire,1,non_qualifie,1,oui,oui,7411.646943340659
+< 0 Euro,12,parfait,auto,1082,< 100 Euro,1 - 4 annees,4.0,48.0,banque,proprietaire,2,qualifie,1,oui,oui,6457.4282750002685
+inconnu,12,bon,ameublement,886,inconnu,1 - 4 annees,2.0,21.0,aucun,proprietaire,1,qualifie,1,oui,non,3752.33534931919
+inconnu,4,bon,ameublement,601,< 100 Euro,< 1 annee,3.0,23.0,aucun,locataire,1,,2,oui,non,1056.3178630718598
+< 0 Euro,24,critique,auto,2957,< 100 Euro,> 7 annees,4.0,63.0,aucun,proprietaire,2,qualifie,1,oui,non,20589.806286984298
+inconnu,24,critique,ameublement,2611,< 100 Euro,> 7 annees,3.0,46.0,aucun,proprietaire,2,qualifie,1,oui,non,11682.4202081718
+< 0 Euro,36,bon,ameublement,5179,< 100 Euro,4 - 7 annees,2.0,29.0,aucun,proprietaire,1,qualifie,1,oui,oui,26387.024208849703
+inconnu,21,pauvre,auto,2993,< 100 Euro,1 - 4 annees,2.0,28.0,magasin,proprietaire,2,non_qualifie,1,oui,non,12231.0144037945
+inconnu,18,bon,renonvations,1943,< 100 Euro,< 1 annee,4.0,23.0,aucun,proprietaire,1,,1,oui,oui,9862.65480766586
+inconnu,24,tres bon,business,1559,< 100 Euro,4 - 7 annees,4.0,50.0,banque,proprietaire,1,qualifie,1,oui,non,7169.44141192537
+inconnu,18,bon,ameublement,3422,< 100 Euro,> 7 annees,4.0,47.0,banque,proprietaire,3,qualifie,2,oui,non,16831.895512482
+1 - 200 Euro,21,bon,ameublement,3976,inconnu,4 - 7 annees,3.0,35.0,aucun,proprietaire,1,qualifie,1,oui,non,8854.93032556315
+inconnu,18,bon,auto,6761,inconnu,1 - 4 annees,4.0,68.0,aucun,locataire,2,qualifie,1,oui,oui,18629.6313720707
+inconnu,24,bon,auto,1249,< 100 Euro,< 1 annee,2.0,28.0,aucun,proprietaire,1,qualifie,1,oui,non,5706.47229650538
+< 0 Euro,9,bon,ameublement,1364,< 100 Euro,4 - 7 annees,4.0,59.0,aucun,proprietaire,1,qualifie,1,oui,non,6300.315310313679
+< 0 Euro,12,bon,ameublement,709,< 100 Euro,> 7 annees,4.0,57.0,magasin,proprietaire,1,non_qualifie,1,oui,oui,3936.0609555972296
+< 0 Euro,20,critique,auto,2235,< 100 Euro,1 - 4 annees,2.0,33.0,banque,locataire,2,qualifie,1,oui,oui,15076.778028434699
+inconnu,24,critique,auto,4042,inconnu,4 - 7 annees,4.0,43.0,aucun,proprietaire,2,qualifie,1,oui,non,12834.769327305201
+inconnu,15,critique,ameublement,1471,< 100 Euro,1 - 4 annees,4.0,35.0,aucun,autre,2,qualifie,1,oui,non,6160.4892622523
+< 0 Euro,18,tres bon,auto,1442,< 100 Euro,4 - 7 annees,4.0,32.0,aucun,autre,2,non_qualifie,2,oui,oui,6365.95694009801
+inconnu,36,pauvre,auto,10875,< 100 Euro,> 7 annees,2.0,45.0,aucun,proprietaire,2,qualifie,2,oui,non,34650.2036453963
+inconnu,24,bon,auto,1474,100 - 500 Euro,< 1 annee,3.0,33.0,aucun,proprietaire,1,qualifie,1,oui,non,6784.3805844286
+inconnu,10,bon,education,894,inconnu,4 - 7 annees,3.0,40.0,aucun,proprietaire,1,qualifie,1,oui,non,3648.8007173592896
+inconnu,15,critique,ameublement,3343,< 100 Euro,1 - 4 annees,2.0,28.0,aucun,autre,1,qualifie,1,oui,non,23523.3034709338
+< 0 Euro,15,bon,auto,3959,< 100 Euro,1 - 4 annees,2.0,29.0,aucun,proprietaire,1,qualifie,1,oui,oui,14948.895394511
+inconnu,9,bon,auto,3577,100 - 500 Euro,1 - 4 annees,2.0,26.0,aucun,locataire,1,qualifie,2,oui,non,4802.35080788996
+inconnu,24,critique,auto,5804,> 1000 Euro,1 - 4 annees,2.0,27.0,aucun,proprietaire,2,qualifie,1,oui,non,36141.687639861404
+inconnu,18,pauvre,business,2169,< 100 Euro,1 - 4 annees,2.0,28.0,aucun,proprietaire,1,qualifie,1,oui,oui,8790.32810065505
+< 0 Euro,24,bon,ameublement,2439,< 100 Euro,< 1 annee,4.0,35.0,aucun,proprietaire,1,qualifie,1,oui,oui,12018.591781961799
+inconnu,27,critique,ameublement,4526,> 1000 Euro,< 1 annee,2.0,32.0,magasin,proprietaire,2,non_qualifie,2,oui,non,26288.674050472597
+inconnu,10,bon,ameublement,2210,< 100 Euro,1 - 4 annees,2.0,25.0,banque,locataire,1,non_qualifie,1,oui,oui,5692.93122427407
+inconnu,15,bon,ameublement,2221,500 - 1000 Euro,1 - 4 annees,4.0,20.0,aucun,locataire,1,qualifie,1,oui,non,6579.05428811634
+< 0 Euro,18,bon,ameublement,2389,< 100 Euro,< 1 annee,1.0,27.0,magasin,proprietaire,1,qualifie,1,oui,non,11061.585142743
+inconnu,12,critique,ameublement,3331,< 100 Euro,> 7 annees,4.0,42.0,magasin,proprietaire,1,qualifie,1,oui,non,9637.14545505187
+inconnu,36,bon,business,7409,inconnu,> 7 annees,2.0,37.0,aucun,proprietaire,2,qualifie,1,oui,non,27486.4797912859
+< 0 Euro,12,bon,ameublement,652,< 100 Euro,> 7 annees,4.0,24.0,aucun,locataire,1,qualifie,1,oui,non,3866.31909276262
+inconnu,36,pauvre,ameublement,7678,500 - 1000 Euro,4 - 7 annees,4.0,40.0,aucun,proprietaire,2,qualifie,1,oui,non,17544.0316490593
+> 200 Euro,6,critique,auto,1343,< 100 Euro,> 7 annees,4.0,46.0,aucun,proprietaire,2,qualifie,2,oui,non,1788.4996686642899
+< 0 Euro,24,critique,business,1382,100 - 500 Euro,4 - 7 annees,1.0,26.0,aucun,proprietaire,2,qualifie,1,oui,non,7702.34811107075
+inconnu,15,bon,ameublement,874,inconnu,< 1 annee,1.0,24.0,aucun,proprietaire,1,qualifie,1,oui,non,6268.675906791271
+< 0 Euro,12,bon,ameublement,3590,< 100 Euro,1 - 4 annees,2.0,29.0,aucun,proprietaire,1,non_qualifie,2,oui,non,7754.28822919189
+1 - 200 Euro,11,critique,auto,1322,> 1000 Euro,1 - 4 annees,4.0,40.0,aucun,proprietaire,2,qualifie,1,oui,non,8317.59549815272
+< 0 Euro,18,tres bon,ameublement,1940,< 100 Euro,< 1 annee,4.0,36.0,banque,autre,1,management,1,oui,non,8377.60913457996
+inconnu,36,bon,ameublement,3595,< 100 Euro,> 7 annees,2.0,28.0,aucun,proprietaire,1,qualifie,1,oui,non,14465.131222801201
+< 0 Euro,9,bon,auto,1422,< 100 Euro,< 1 annee,2.0,27.0,aucun,autre,1,management,1,oui,oui,6026.377347978921
+inconnu,30,critique,ameublement,6742,inconnu,4 - 7 annees,3.0,36.0,aucun,proprietaire,2,qualifie,1,oui,non,16463.9508081367
+inconnu,24,bon,auto,7814,< 100 Euro,4 - 7 annees,3.0,38.0,aucun,proprietaire,1,management,1,oui,non,25899.0188821285
+inconnu,24,bon,auto,9277,inconnu,1 - 4 annees,4.0,48.0,aucun,autre,1,qualifie,1,oui,non,25269.716122284302
+1 - 200 Euro,30,critique,auto,2181,inconnu,> 7 annees,4.0,36.0,aucun,proprietaire,2,qualifie,1,oui,non,11207.2096314078
+inconnu,18,critique,ameublement,1098,< 100 Euro,chomeur,4.0,65.0,aucun,proprietaire,2,chomeur,1,oui,non,6927.47094055209
+1 - 200 Euro,24,bon,ameublement,4057,< 100 Euro,4 - 7 annees,3.0,43.0,aucun,proprietaire,1,qualifie,1,oui,oui,18286.1640355146
+< 0 Euro,12,bon,education,795,< 100 Euro,< 1 annee,4.0,53.0,aucun,proprietaire,1,qualifie,1,oui,oui,5631.87824032973
+1 - 200 Euro,24,critique,business,2825,inconnu,4 - 7 annees,3.0,34.0,aucun,proprietaire,2,qualifie,2,oui,non,16616.7950000267
+1 - 200 Euro,48,bon,business,15672,< 100 Euro,1 - 4 annees,2.0,23.0,aucun,proprietaire,1,qualifie,1,oui,oui,41144.8397784766
+inconnu,36,critique,auto,6614,< 100 Euro,> 7 annees,4.0,34.0,aucun,proprietaire,2,management,1,oui,non,27120.5987730427
+inconnu,28,tres bon,auto,7824,inconnu,< 1 annee,4.0,40.0,banque,locataire,2,qualifie,2,oui,non,41456.965559576296
+< 0 Euro,27,critique,business,2442,< 100 Euro,> 7 annees,4.0,43.0,magasin,proprietaire,4,management,2,oui,non,11627.0540103716
+inconnu,15,critique,ameublement,1829,< 100 Euro,> 7 annees,4.0,46.0,aucun,proprietaire,2,qualifie,1,oui,non,9262.39392952937
+< 0 Euro,12,critique,auto,2171,< 100 Euro,1 - 4 annees,4.0,38.0,banque,proprietaire,2,non_qualifie,1,oui,non,14530.9868978637
+1 - 200 Euro,36,critique,auto,5800,< 100 Euro,1 - 4 annees,4.0,34.0,aucun,proprietaire,2,qualifie,1,oui,non,29851.9242087337
+inconnu,18,critique,ameublement,1169,inconnu,1 - 4 annees,3.0,29.0,aucun,proprietaire,2,qualifie,1,oui,non,6601.03801906179
+inconnu,36,pauvre,auto,8947,inconnu,4 - 7 annees,2.0,31.0,magasin,proprietaire,1,management,2,oui,non,27267.323515865897
+< 0 Euro,21,bon,ameublement,2606,< 100 Euro,< 1 annee,4.0,28.0,aucun,locataire,1,management,1,oui,non,15559.5906856623
+inconnu,12,critique,ameublement,1592,> 1000 Euro,4 - 7 annees,2.0,35.0,aucun,proprietaire,1,qualifie,1,oui,non,7628.48175002303
+inconnu,15,bon,ameublement,2186,inconnu,4 - 7 annees,4.0,33.0,banque,locataire,1,non_qualifie,1,oui,non,2197.1446104537804
+< 0 Euro,18,bon,ameublement,4153,< 100 Euro,1 - 4 annees,3.0,42.0,aucun,proprietaire,1,qualifie,1,oui,oui,14569.1531682644
+< 0 Euro,16,critique,auto,2625,< 100 Euro,> 7 annees,4.0,43.0,banque,locataire,1,qualifie,1,oui,oui,8091.139486466991
+inconnu,20,critique,auto,3485,inconnu,< 1 annee,4.0,44.0,aucun,proprietaire,2,qualifie,1,oui,non,7175.78116685853
+inconnu,36,critique,auto,10477,inconnu,> 7 annees,4.0,42.0,aucun,autre,2,qualifie,1,oui,non,35666.176431449705
+inconnu,15,bon,ameublement,1386,inconnu,1 - 4 annees,2.0,40.0,aucun,locataire,1,qualifie,1,oui,non,8955.28042824242
+inconnu,24,bon,ameublement,1278,< 100 Euro,> 7 annees,1.0,36.0,aucun,proprietaire,1,management,1,oui,non,8673.18728609388
+< 0 Euro,12,bon,ameublement,1107,< 100 Euro,1 - 4 annees,2.0,20.0,aucun,locataire,1,management,2,oui,non,3372.126346917561
+< 0 Euro,21,bon,auto,3763,inconnu,4 - 7 annees,2.0,24.0,aucun,proprietaire,1,non_qualifie,1,oui,non,11949.319648415802
+1 - 200 Euro,36,bon,education,3711,inconnu,1 - 4 annees,2.0,27.0,aucun,proprietaire,1,qualifie,1,oui,non,7627.071998204141
+inconnu,15,pauvre,auto,3594,< 100 Euro,< 1 annee,2.0,46.0,aucun,proprietaire,2,non_qualifie,1,oui,non,3661.18138591026
+1 - 200 Euro,9,bon,auto,3195,inconnu,1 - 4 annees,2.0,33.0,aucun,proprietaire,1,non_qualifie,1,oui,non,4548.82373721234
+inconnu,36,pauvre,ameublement,4454,< 100 Euro,1 - 4 annees,4.0,34.0,aucun,proprietaire,2,qualifie,1,oui,non,31356.0542346011
+1 - 200 Euro,24,critique,ameublement,4736,< 100 Euro,< 1 annee,4.0,25.0,banque,proprietaire,1,non_qualifie,1,oui,oui,11432.6268725738
+1 - 200 Euro,30,bon,ameublement,2991,inconnu,> 7 annees,4.0,25.0,aucun,proprietaire,1,qualifie,1,oui,non,6924.4841959928
+inconnu,11,bon,business,2142,> 1000 Euro,> 7 annees,2.0,28.0,aucun,proprietaire,1,qualifie,1,oui,non,2177.72796830611
+< 0 Euro,24,tres bon,business,3161,< 100 Euro,1 - 4 annees,2.0,31.0,aucun,locataire,1,qualifie,1,oui,oui,18566.1058112381
+1 - 200 Euro,48,parfait,auto0,18424,< 100 Euro,1 - 4 annees,2.0,32.0,banque,proprietaire,1,management,1,oui,oui,19807.3793055506
+inconnu,10,bon,auto,2848,100 - 500 Euro,1 - 4 annees,2.0,32.0,aucun,proprietaire,1,qualifie,2,oui,non,4962.451873856021
+< 0 Euro,6,bon,auto,14896,< 100 Euro,> 7 annees,4.0,68.0,banque,proprietaire,1,management,1,oui,oui,15856.133583320501
+< 0 Euro,24,bon,ameublement,2359,100 - 500 Euro,chomeur,1.0,33.0,aucun,proprietaire,1,qualifie,1,oui,oui,4220.01119136405
+< 0 Euro,24,bon,ameublement,3345,< 100 Euro,> 7 annees,2.0,39.0,aucun,locataire,1,management,1,oui,oui,20330.9175461823
+inconnu,18,critique,ameublement,1817,< 100 Euro,1 - 4 annees,2.0,28.0,aucun,proprietaire,2,qualifie,1,oui,non,11938.723709713999
+inconnu,48,pauvre,ameublement,12749,500 - 1000 Euro,4 - 7 annees,1.0,37.0,aucun,proprietaire,1,management,1,oui,non,52898.1991599829
+< 0 Euro,9,bon,ameublement,1366,< 100 Euro,< 1 annee,4.0,22.0,aucun,locataire,1,qualifie,1,oui,oui,4869.4491469021095
+1 - 200 Euro,12,bon,auto,2002,< 100 Euro,4 - 7 annees,4.0,30.0,aucun,locataire,1,qualifie,2,oui,non,8118.462174929499
+< 0 Euro,24,tres bon,ameublement,6872,< 100 Euro,< 1 annee,1.0,55.0,banque,proprietaire,1,qualifie,1,oui,oui,22959.3034647766
+< 0 Euro,12,tres bon,auto,697,< 100 Euro,< 1 annee,2.0,46.0,banque,proprietaire,2,qualifie,1,oui,oui,2873.00566133278
+< 0 Euro,18,critique,ameublement,1049,< 100 Euro,< 1 annee,4.0,21.0,aucun,locataire,1,qualifie,1,oui,non,5353.7956396596
+< 0 Euro,48,bon,auto,10297,< 100 Euro,4 - 7 annees,4.0,39.0,magasin,autre,3,qualifie,2,oui,oui,43677.1541517503
+inconnu,30,bon,ameublement,1867,inconnu,> 7 annees,4.0,58.0,aucun,proprietaire,1,qualifie,1,oui,non,9691.67468703153
+< 0 Euro,12,pauvre,auto,1344,< 100 Euro,1 - 4 annees,2.0,43.0,aucun,proprietaire,2,non_qualifie,2,oui,non,7534.97260019207
+< 0 Euro,24,bon,ameublement,1747,< 100 Euro,< 1 annee,1.0,24.0,aucun,proprietaire,1,non_qualifie,1,oui,non,10024.0137412992
+1 - 200 Euro,9,bon,ameublement,1670,< 100 Euro,< 1 annee,2.0,22.0,aucun,proprietaire,1,qualifie,1,oui,oui,10748.7838269875
+inconnu,9,critique,auto,1224,< 100 Euro,1 - 4 annees,1.0,30.0,aucun,proprietaire,2,qualifie,1,oui,non,4052.33115103836
+inconnu,12,critique,ameublement,522,500 - 1000 Euro,> 7 annees,4.0,42.0,aucun,proprietaire,2,qualifie,2,oui,non,2775.86763566245
+< 0 Euro,12,bon,ameublement,1498,< 100 Euro,1 - 4 annees,1.0,23.0,banque,proprietaire,1,qualifie,1,oui,non,9223.02013762124
+1 - 200 Euro,30,pauvre,ameublement,1919,100 - 500 Euro,< 1 annee,3.0,30.0,magasin,proprietaire,2,management,1,oui,oui,8987.63058913683
+> 200 Euro,9,bon,ameublement,745,< 100 Euro,1 - 4 annees,2.0,28.0,aucun,proprietaire,1,non_qualifie,1,oui,oui,2744.10802765357
+1 - 200 Euro,6,bon,ameublement,2063,< 100 Euro,< 1 annee,3.0,30.0,aucun,locataire,1,management,1,oui,non,14690.955675961599
+1 - 200 Euro,60,bon,education,6288,< 100 Euro,1 - 4 annees,4.0,42.0,aucun,autre,1,qualifie,1,oui,oui,41111.5988947321
+inconnu,24,critique,auto,6842,inconnu,1 - 4 annees,4.0,46.0,aucun,proprietaire,2,management,2,oui,non,13887.0987846517
+inconnu,12,bon,auto,3527,inconnu,< 1 annee,3.0,45.0,aucun,proprietaire,1,management,2,oui,non,9820.94456078415
+inconnu,10,bon,auto,1546,< 100 Euro,1 - 4 annees,2.0,31.0,aucun,proprietaire,1,non_qualifie,2,oui,non,7584.46559388229
+inconnu,24,bon,ameublement,929,inconnu,4 - 7 annees,2.0,31.0,magasin,proprietaire,1,qualifie,1,oui,non,5055.362666732511
+inconnu,4,critique,auto,1455,< 100 Euro,4 - 7 annees,1.0,42.0,aucun,proprietaire,3,non_qualifie,2,oui,non,4801.4774679852
+< 0 Euro,15,bon,ameublement,1845,< 100 Euro,< 1 annee,1.0,46.0,aucun,locataire,1,qualifie,1,oui,non,11579.9002221796
+1 - 200 Euro,48,parfait,auto,8358,500 - 1000 Euro,< 1 annee,1.0,30.0,aucun,proprietaire,2,qualifie,1,oui,non,13247.4036780788
+< 0 Euro,24,tres bon,ameublement,3349,500 - 1000 Euro,< 1 annee,4.0,30.0,aucun,autre,1,qualifie,2,oui,oui,19045.142975265902
+inconnu,12,bon,auto,2859,inconnu,chomeur,4.0,38.0,aucun,proprietaire,1,management,1,oui,non,16532.7702886504
+inconnu,18,bon,ameublement,1533,< 100 Euro,< 1 annee,1.0,43.0,aucun,proprietaire,1,non_qualifie,2,oui,oui,7397.337608478341
+inconnu,24,bon,ameublement,3621,100 - 500 Euro,> 7 annees,4.0,31.0,aucun,proprietaire,2,qualifie,1,oui,oui,10800.2739193784
+1 - 200 Euro,18,critique,business,3590,< 100 Euro,chomeur,3.0,40.0,aucun,proprietaire,3,chomeur,2,oui,non,17463.9053637935
+< 0 Euro,36,pauvre,business,2145,< 100 Euro,4 - 7 annees,1.0,24.0,aucun,proprietaire,2,qualifie,1,oui,oui,5736.53951856542
+1 - 200 Euro,24,bon,auto,4113,500 - 1000 Euro,< 1 annee,4.0,28.0,aucun,locataire,1,qualifie,1,oui,oui,20448.2286486423
+inconnu,36,bon,ameublement,10974,< 100 Euro,chomeur,2.0,26.0,aucun,proprietaire,2,management,1,oui,oui,45204.6290939564
+< 0 Euro,12,bon,auto,1893,< 100 Euro,1 - 4 annees,4.0,29.0,aucun,proprietaire,1,qualifie,1,oui,non,11879.6564370905
+< 0 Euro,24,critique,ameublement,1231,> 1000 Euro,> 7 annees,4.0,57.0,aucun,locataire,2,management,1,oui,non,8615.58289613935
+> 200 Euro,30,critique,ameublement,3656,inconnu,> 7 annees,4.0,49.0,magasin,proprietaire,2,non_qualifie,1,oui,non,15329.439377056699
+1 - 200 Euro,9,critique,ameublement,1154,< 100 Euro,> 7 annees,4.0,37.0,aucun,proprietaire,3,non_qualifie,1,oui,non,3735.95438517038
+< 0 Euro,28,bon,auto,4006,< 100 Euro,1 - 4 annees,2.0,45.0,aucun,proprietaire,1,non_qualifie,1,oui,oui,14847.3549493405
+1 - 200 Euro,24,bon,ameublement,3069,100 - 500 Euro,> 7 annees,4.0,30.0,aucun,autre,1,qualifie,1,oui,non,15893.465856840201
+inconnu,6,critique,ameublement,1740,< 100 Euro,> 7 annees,2.0,30.0,aucun,locataire,2,qualifie,1,oui,non,5056.0881526699795
+1 - 200 Euro,21,pauvre,auto,2353,< 100 Euro,1 - 4 annees,4.0,47.0,aucun,proprietaire,2,qualifie,1,oui,non,4101.97375882116
+inconnu,15,bon,auto,3556,inconnu,1 - 4 annees,2.0,29.0,aucun,proprietaire,1,qualifie,1,oui,non,18424.3434635079
+inconnu,24,bon,ameublement,2397,500 - 1000 Euro,> 7 annees,2.0,35.0,banque,proprietaire,2,qualifie,1,oui,oui,10120.1960024141
+1 - 200 Euro,6,bon,renonvations,454,< 100 Euro,< 1 annee,1.0,22.0,aucun,proprietaire,1,non_qualifie,1,oui,non,1729.2704897353601
+1 - 200 Euro,30,bon,ameublement,1715,inconnu,1 - 4 annees,1.0,26.0,aucun,proprietaire,1,qualifie,1,oui,non,10321.0288418152
+1 - 200 Euro,27,critique,ameublement,2520,500 - 1000 Euro,1 - 4 annees,2.0,23.0,aucun,proprietaire,2,non_qualifie,1,oui,oui,16857.3552688812
+inconnu,15,bon,ameublement,3568,< 100 Euro,> 7 annees,2.0,54.0,banque,locataire,1,management,1,oui,non,22186.064109361894
+inconnu,42,bon,ameublement,7166,inconnu,4 - 7 annees,4.0,29.0,aucun,locataire,1,qualifie,1,oui,non,23474.881642658398
+< 0 Euro,11,critique,auto,3939,< 100 Euro,1 - 4 annees,2.0,40.0,aucun,proprietaire,2,non_qualifie,2,oui,non,6488.985873748579
+1 - 200 Euro,15,bon,renonvations,1514,100 - 500 Euro,1 - 4 annees,2.0,22.0,aucun,proprietaire,1,qualifie,1,oui,non,9765.73467036406
+inconnu,24,bon,auto,7393,< 100 Euro,1 - 4 annees,4.0,43.0,aucun,proprietaire,1,non_qualifie,2,oui,non,11383.516900281002
+< 0 Euro,24,tres bon,auto,1193,< 100 Euro,chomeur,4.0,29.0,aucun,locataire,2,chomeur,1,oui,oui,1712.0336592402698
+< 0 Euro,60,bon,business,7297,< 100 Euro,> 7 annees,4.0,36.0,aucun,locataire,1,qualifie,1,oui,oui,52244.5941873758
+inconnu,30,critique,ameublement,2831,< 100 Euro,1 - 4 annees,2.0,33.0,aucun,proprietaire,1,qualifie,1,oui,non,19287.6068735031
+> 200 Euro,24,bon,ameublement,1258,500 - 1000 Euro,1 - 4 annees,3.0,57.0,aucun,proprietaire,1,non_qualifie,1,oui,non,4373.37644485019
+1 - 200 Euro,6,bon,ameublement,753,< 100 Euro,1 - 4 annees,3.0,64.0,aucun,proprietaire,1,qualifie,1,oui,non,2361.18820076481
+1 - 200 Euro,18,pauvre,business,2427,inconnu,> 7 annees,2.0,42.0,aucun,proprietaire,2,qualifie,1,oui,non,11704.0422259541
+inconnu,24,pauvre,auto,2538,< 100 Euro,> 7 annees,4.0,47.0,aucun,proprietaire,2,non_qualifie,2,oui,oui,10456.541581792
+1 - 200 Euro,15,tres bon,auto,1264,100 - 500 Euro,1 - 4 annees,2.0,25.0,aucun,locataire,1,qualifie,1,oui,oui,3802.5054156586298
+1 - 200 Euro,30,critique,ameublement,8386,< 100 Euro,4 - 7 annees,2.0,49.0,aucun,proprietaire,1,qualifie,1,oui,oui,20651.195881236297
+inconnu,48,bon,business,4844,< 100 Euro,chomeur,2.0,33.0,banque,locataire,1,management,1,oui,oui,16298.416905554099
+> 200 Euro,21,bon,auto,2923,100 - 500 Euro,1 - 4 annees,1.0,28.0,banque,proprietaire,1,management,1,oui,non,3503.50848897072
+< 0 Euro,36,bon,auto,8229,< 100 Euro,1 - 4 annees,2.0,26.0,aucun,proprietaire,1,qualifie,2,oui,oui,19212.9712571491
+inconnu,24,critique,ameublement,2028,< 100 Euro,4 - 7 annees,2.0,30.0,aucun,proprietaire,2,non_qualifie,1,oui,non,6973.944462679089
+< 0 Euro,15,critique,ameublement,1433,< 100 Euro,1 - 4 annees,3.0,25.0,aucun,locataire,2,qualifie,1,oui,non,9005.229798102779
+> 200 Euro,42,parfait,business,6289,< 100 Euro,< 1 annee,1.0,33.0,aucun,proprietaire,2,qualifie,1,oui,non,18244.9074518297
+inconnu,13,bon,ameublement,1409,100 - 500 Euro,chomeur,4.0,64.0,aucun,proprietaire,1,qualifie,1,oui,non,3849.60641375032
+< 0 Euro,24,bon,auto,6579,< 100 Euro,chomeur,2.0,29.0,aucun,autre,1,management,1,oui,non,33246.9064921413
+1 - 200 Euro,24,critique,ameublement,1743,< 100 Euro,> 7 annees,2.0,48.0,aucun,proprietaire,2,non_qualifie,1,oui,non,11389.0831201438
+inconnu,12,critique,education,3565,inconnu,< 1 annee,1.0,37.0,aucun,proprietaire,2,non_qualifie,2,oui,non,9940.581912468158
+inconnu,15,tres bon,ameublement,1569,100 - 500 Euro,> 7 annees,4.0,34.0,banque,proprietaire,1,non_qualifie,2,oui,non,7257.9734734628
+< 0 Euro,18,bon,ameublement,1936,inconnu,4 - 7 annees,4.0,23.0,aucun,locataire,2,non_qualifie,1,oui,non,4140.683131948739
+< 0 Euro,36,bon,ameublement,3959,< 100 Euro,chomeur,3.0,30.0,aucun,proprietaire,1,management,1,oui,non,18894.6954325372
+inconnu,12,bon,auto,2390,inconnu,> 7 annees,3.0,50.0,aucun,proprietaire,1,qualifie,1,oui,non,14848.205847341202
+< 0 Euro,30,bon,auto,3857,< 100 Euro,1 - 4 annees,4.0,40.0,aucun,proprietaire,1,management,1,oui,non,24410.172519884
+inconnu,12,bon,ameublement,804,< 100 Euro,> 7 annees,4.0,38.0,aucun,proprietaire,1,qualifie,1,oui,non,5285.991297740839
+< 0 Euro,45,bon,ameublement,1845,< 100 Euro,1 - 4 annees,4.0,23.0,aucun,autre,1,qualifie,1,oui,oui,8408.00731091677
+1 - 200 Euro,45,critique,auto,4576,100 - 500 Euro,chomeur,4.0,27.0,aucun,proprietaire,1,qualifie,1,oui,non,16938.1704254719
+inconnu,48,bon,auto,14576,100 - 500 Euro,chomeur,4.0,27.0,aucun,proprietaire,1,non_qualifie,1,oui,non,56952.1623388445
+inconnu,45,critique,auto,4576,100 - 500 Euro,chomeur,4.0,27.0,aucun,proprietaire,1,qualifie,1,oui,non,17281.9728298931
+1 - 200 Euro,45,critique,auto,4576,100 - 500 Euro,chomeur,4.0,27.0,aucun,proprietaire,1,qualifie,1,oui,non,23544.3891525661
+inconnu,15,critique,auto,5045,inconnu,> 7 annees,4.0,59.0,aucun,proprietaire,1,qualifie,1,oui,non,6247.90341599548
+1 - 200 Euro,15,tres bon,auto,1234,100 - 500 Euro,1 - 4 annees,2.0,25.0,aucun,locataire,1,qualifie,1,oui,oui,3702.6081638914
+1 - 200 Euro,35,bon,auto,1734,100 - 500 Euro,1 - 4 annees,2.0,25.0,aucun,proprietaire,1,qualifie,1,oui,oui,9141.31488023649
